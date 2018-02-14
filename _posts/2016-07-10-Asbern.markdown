@@ -1,0 +1,65 @@
+---
+title: La presse à épreuve Asbern ADR-1
+date: '2016-07-10'
+tags:
+  - presses
+excerpt: >-
+  Cette presse a été produite par la firme _Asbern Maschinenbau GmbH_ de
+  Augsbourg en Allemagne entre 1960 et 1970\. C'est une presse à épreuve dite
+  "de précision".
+permalink: 'carnet/:title'
+header:
+  image: /assets/images/machines/Asbern0004.jpg
+  teaser: /assets/images/machines/Asbern0004.jpg
+sidebar:
+  - title: Marque
+    text: Asbern
+  - title: Modèle
+    text: ADR1
+  - title: Format
+    text: 50 X 37 cm
+gallery:
+  - url: /assets/images/machines/Asbern0010C.jpg
+    image_path: /assets/images/machines/Asbern0010C.jpg
+    alt: placeholder image 1
+  - url: /assets/images/machines/Asbern0003.jpg
+    image_path: /assets/images/machines/Asbern0003.jpg
+    alt: placeholder image 2
+  - url: /assets/images/machines/Asbern0004.jpg
+    image_path: /assets/images/machines/Asbern0004.jpg
+    alt: placeholder image 3
+  - url: /assets/images/machines/Asbern0005.jpg
+    image_path: /assets/images/machines/Asbern0005.jpg
+    alt: placeholder image 4
+  - url: /assets/images/machines/Asbern0014.jpg
+    image_path: /assets/images/machines/Asbern0014.jpg
+    alt: placeholder image 5
+  - url: /assets/images/machines/Asbern0007.jpg
+    image_path: /assets/images/machines/Asbern0007.jpg
+    alt: placeholder image 6
+  - url: /assets/images/machines/Asbern0008.jpg
+    image_path: /assets/images/machines/Asbern0008.jpg
+    alt: placeholder image 7
+  - url: /assets/images/machines/Asbern0009.jpg
+    image_path: /assets/images/machines/Asbern0009.jpg
+    alt: placeholder image 8
+  - url: /assets/images/machines/Asbern0001.jpg
+    image_path: /assets/images/machines/Asbern0001.jpg
+    alt: placeholder image 9
+    toc: true
+    toc_label: Sommaire
+    toc_icon: list
+---
+
+Cette presse a été produite par la firme _Asbern Maschinenbau GmbH_ de Augsbourg en Allemagne entre 1960 et 1970\. C'est une presse à épreuve dite "de précision".
+
+# Description technique
+
+L'encrage est automatique ou manuel (manivelle escamotable). Des repères centimétriques sont gravés sur la table de marge, elle même munie d'une butée ajustable, cette graduation est reportée sur le marbre, facilitant la mise en place de la forme et les tirages en plusieurs passes.<br>
+La principal particularité de cette machine par rapport aux **Fag** ou **Vandercook** est son cylindre réglable en hauteur (en général c'est la hauteur du marbre qui est ajustable). Il permet grâce à une molette graduée d'ajuster la pression sans avoir à revoir l'habillage du cylindre mais aussi, de s'adapter à toutes les hauteurs de caractère en usage.<br>
+
+Elle pourra aussi être utilisée pour tirer des linogravures ou des gravures sur bois qui ne serait pas à des hauteurs standardisées, tout en pouvant adapter la pression au plus juste. Le dessous du cylindre est équipé d'une petite « balayette » (absente sur mon modèle...) qui sert à plaquer la feuille au cylindre au moment ou celui-ci entre en contact avec la forme, pour éviter le papillonnage et les macules.<br>
+
+La particularité d'un tirage sur cette machine est qu'il convient, si l'on augmente la pression, d'accompagner le cylindre en maintenant la bras de mise hors pression pour avoir un touché constant. Mais pour un foulage délicat, ce n'est pas utile si la hauteur du cylindre est bien réglée, il suffit que le mécanisme de verrouillage de la pression soit bien ajusté (il s'agit d'un système de bille et de ressort qui tient le cylindre en place jusqu'à une certaine pression, les taquets des deux cotés du marbre servent eux à remonter ou abaisser le cylindre en bout de course, en "forçant" ce léger blocage).
+
+{% include gallery caption="La Asbern ADR1." %}

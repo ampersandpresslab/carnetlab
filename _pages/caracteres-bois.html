@@ -1,0 +1,19 @@
+---
+layout: archive
+title: Recherches sur les caractères en bois
+permalink: /carnet/caracteres-bois
+author_profile: true
+header:
+  overlay_image: assets/images/apl.jpg
+  caption: Caractères Page & Co
+  overlay_filter: 0.5
+sidebar:
+  nav: "side"
+---
+<div class="grid__wrapper"><!-- affichage en grille -->
+
+  {% for post in site.categories.caracteres-bois %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+
+</div>

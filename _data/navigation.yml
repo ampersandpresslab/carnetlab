@@ -1,0 +1,17 @@
+# main links
+main:
+# - title: "Blog"
+#   url: /all/
+- title: "Tous les billets"
+  url: /carnet/
+- title: "Site de l'atelier"
+  url: /atelier/
+
+- title: "À  propos"
+  url: /apropos/
+side:
+  - title: Sections
+    children:
+
+      - title: Les caractères bois
+        url: /carnet/caracteres-bois

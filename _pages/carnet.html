@@ -1,0 +1,26 @@
+---
+layout: archive
+title: Carnet de recherches, tous les billets
+permalink: /carnet/
+author_profile: true
+header:
+  overlay_image: assets/images/apl.jpg
+  caption: Caractères Page & Co
+  overlay_filter: 0.5
+sidebar:
+  nav: "side"
+---
+
+
+
+
+
+
+<div class="grid__wrapper"><!-- affichage en grille -->
+{% assign anteChrono = site.posts  | sort | reverse | group_by_exp:"post", "post.date | date: '%F'"  %}
+{% for year in anteChrono %}
+  {% for post in year.items %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+{% endfor %}
+</div>
