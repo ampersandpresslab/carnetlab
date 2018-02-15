@@ -77,16 +77,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          :
+    tracking_id          : UA-39919214-4
+
 
 
 # Site Author
 author:
-  name             : "Éric N."
+  name             : "Éric Nunes"
   avatar           : "/assets/images/expeditive.png"
-  bio              : "Carnet de recherchres d'un imprimeur et typographe amateur (de profession, bibliothécaire spécialisé dans l'histoire du livre et dans la numérisation patrimoniale)."
+  bio              : "Carnet de recherches d'un imprimeur et typographe amateur (de profession, bibliothécaire spécialisé dans l'histoire du livre et dans la numérisation patrimoniale)."
   location         : "Pont-à-Mousson, France"
   email            : ampersandpresslab@gmail.com
   uri              : https://ampersandpresslab.fr/
@@ -185,16 +186,16 @@ sass:
 #paginate_path: /:categories/page:num/
 #timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  carnet:
-    output: true
-    permalink: /:path/
-  blog:
-    output: true
-    permalink: /:path/
+#collections:
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  carnet:
+#    output: true
+#    permalink: /:path/
+#  blog:
+#    output: true
+#    permalink: /:path/
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
