@@ -30,22 +30,27 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+
+
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
+  allowedFields: ["name", "email", "url", "message", "post_id"]
+  allowedOrigins: ["ericnunes-carnet.fr."]
+  branch: "master"
+  filename: "{fields.name}_{@timestamp}"
+  format: "yml"
   generatedFields:
     date:
-      type               : # "date"
+      type: date
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: "timestamp-seconds"
+  moderation: true
+  name: "ericnunes-carnet.fr"
+  path: "_data/comments/"
+  requiredFields: ["name", "email", "message", "post_id"]
+  commitMessage: "New comment on the blog"
+
+
+
 reCaptcha:
   siteKey                :
   secret                 :
@@ -255,12 +260,12 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: carnet
+      type: posts
     values:
       layout: single
 
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: false
       sidebar:
