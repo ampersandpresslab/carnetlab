@@ -58,7 +58,7 @@ Voici les estampilles relevées sur des caractères de ma collection (polices co
   <figcaption>Marque de Chabauty.</figcaption>
 </figure>
 
-Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1857 (Chabauty-Moreau, puis Chabauty-Ploquin). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855"
+Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1857 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
 
 ### Marque Ploquin, Bressuire
 
@@ -69,7 +69,7 @@ Manufacture Chabauty, à Bressuire. Probablement la première génération de fa
   <figcaption>Marque de Ploquin.</figcaption>
 </figure>
 
-Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, antérieure à E. Ploquin.
+Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, antérieure à E. Ploquin. Il peut s'agir de la marque liée à la raison sociale Ploquin-Chabauty (quand le gendre de Armand Chabauty prend la main, vers 1866).
 
 ### Marque de E. Ploquin, Bressuire
 
@@ -80,7 +80,7 @@ Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, an
   <figcaption>Marque de E. Ploquin.</figcaption>
 </figure>
 
-Manufacture E. Ploquin, à Bressuire. Une des premières fabriques de Bressuire. Gendre de Chabauty.
+Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le moment impossible d'identifier le prénom derrièrre ce "E.".
 
 ### Marque de Audebaud, Bressuire
 
@@ -115,7 +115,7 @@ Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau
   <figcaption>Marque L. Saison.</figcaption>
 </figure>
 
-Manufacture L. Sainson, à Argenton. Pas d'informations trouvées sur cette manufacture (près de Bressuire, ou Argenton sur Creuse ?).
+Manufacture L. Sainson, à Argenton. Pas d'informations trouvées sur cette manufacture (Argenton sur Creuse).
 
 ### Marque T. Boré
 
@@ -126,11 +126,11 @@ Manufacture L. Sainson, à Argenton. Pas d'informations trouvées sur cette manu
   <figcaption>Marque T. Bore.</figcaption>
 </figure>
 
-Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1860 et 1870 ? Un Boré est cité comme graveur sur bois dans cette ville en 1870 (Gazette des Beaux-Arts). Un spécimen existe à Forney au nom de T.F. Boré, graveur.
+Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1852 et 1870\. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (Gazette des Beaux-Arts). Un spécimen existe à Forney au nom de T.F. Boré, graveur.
 
 ## Les manufactures en Suisse
 
-### Marque de A. Martin Manufacture A. Martin.
+### Marque de A. Martin.
 
 <figure class="half">
   <a href="{{ site.baseurl }}/assets/images/Marque-A-Martin.jpg">
@@ -139,7 +139,7 @@ Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre
   <figcaption>Marque A. Martin.</figcaption>
 </figure>
 
-Cette manufacture est sise à Ardon, en Suisse.
+La manufacture Auguste Martin est installée à Ardon, en Suisse. Fondée vers 1875, elle est mise en liquidation en 1969.
 
 ### Marque des Usines Gutenberg,
 
@@ -150,7 +150,7 @@ Cette manufacture est sise à Ardon, en Suisse.
   <figcaption>Marque Usines Gutenberg.</figcaption>
 </figure>
 
-Genève Usines Gutenberg, à Genève (Suisse). Fin XIX^^e^^ siècle, a possédé des succursales à Paris.
+Genève Usines Gutenberg, à Genève (Suisse). Fin dix-neuvième siècle, a possédé des succursales à Paris.
 
 ## Les manufactures aux États-Unis
 
@@ -189,7 +189,7 @@ Manufacture Hamilton, à Two Rivers (Wisconsin, USA). Fabrique mythique, existe 
   <figcaption>Marque Miller &amp; Richard.</figcaption>
 </figure>
 
-Manufacture Miller & Richard (Edinbourg) (Connecticut USA) Sur un caractère taillé à la main. Cette fonderie existe sous ce nom depuis 1838 (fondée par Miller en 1809). Je suppose une date vers 1850 à cause de la taille à la main.
+Manufacture Miller & Richard (Edinbourg) (Connecticut USA), ur un caractère taillé à la main. Cette fonderie existe sous ce nom depuis 1838 (fondée par Miller en 1809). Je suppose une date vers 1850 à cause de la taille à la main.
 
 ## Les manufactures en Grande-Bretagne
 
@@ -217,7 +217,7 @@ Manufacture Day & Collins
 
 # Appel à témoins
 
-Si vous possédez des polices bois, jetez un oeil sur le coté de vos caractères, vous trouverez peut-être des estampilles, que je liste ici ou d'autres (il y a beaucoup de manufactures en France, par exemple Ch. Boudin 27, rue Pastourelle Paris ou Jacoby & fils), auquel cas, faîtes le moi savoir !
+> Si vous possédez des polices bois, jetez un oeil sur le coté de vos caractères, vous trouverez peut-être des estampilles, que je liste ici ou d'autres (il y a beaucoup de manufactures en France, par exemple Ch. Boudin 27, rue Pastourelle Paris ou Jacoby & fils), auquel cas, faîtes le moi savoir !
 
 **J'accèpte bien sûr les dons ;)**
 
