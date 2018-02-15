@@ -38,7 +38,7 @@ Je possède des fontes des fabricants suivants :
 
 ## Marque de Chabauty, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Chabauty.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Chabauty.jpg">
 </a>
@@ -49,7 +49,7 @@ Manufacture Chabauty, à Bressuire. Probablement la première génération de fa
 
 ## Marque Ploquin, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Ploquin.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Ploquin.jpg">
 </a>
@@ -60,7 +60,7 @@ Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, an
 
 ## Marque de E. Ploquin, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-ploquin-2.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-ploquin-2.jpg">
 </a>
@@ -71,7 +71,7 @@ Manufacture E. Ploquin, à Bressuire. Une des premières fabriques de Bressuire.
 
 ## Marque de Audebaud, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/marque-audebaud-2.jpg">
   <img src="{{ site.baseurl }}/assets/images/marque-audebaud-2.jpg">
 </a>
@@ -82,7 +82,7 @@ Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moi
 
 ## Marque de Henri Dureau, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-H-Dureau.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-H-Dureau.jpg">
 </a>
