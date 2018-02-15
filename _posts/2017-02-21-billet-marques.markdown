@@ -51,7 +51,7 @@ Voici les estampilles relevées sur des caractères de ma collection (polices co
 
 ### Marque de Chabauty, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Chabauty.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Chabauty.jpg">
 </a>
@@ -62,7 +62,7 @@ Manufacture Chabauty, à Bressuire. Probablement la première génération de fa
 
 ### Marque Ploquin, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Ploquin.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Ploquin.jpg">
 </a>
@@ -73,7 +73,7 @@ Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, an
 
 ### Marque de E. Ploquin, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-ploquin-2.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-ploquin-2.jpg">
 </a>
@@ -84,7 +84,7 @@ Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le momen
 
 ### Marque de Audebaud, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/marque-audebaud-2.jpg">
   <img src="{{ site.baseurl }}/assets/images/marque-audebaud-2.jpg">
 </a>
@@ -95,7 +95,7 @@ Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moi
 
 ### Marque de Henri Dureau, Bressuire
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-H-Dureau.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-H-Dureau.jpg">
 </a>
@@ -108,7 +108,7 @@ Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau
 
 ### Marque L. Sainson, Argenton
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-L-Saison.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-L-Saison.jpg">
 </a>
@@ -119,7 +119,7 @@ Manufacture L. Sainson, à Argenton. Pas d'informations trouvées sur cette manu
 
 ### Marque T. Boré
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-T-Bore.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-T-Bore.jpg">
 </a>
@@ -132,7 +132,7 @@ Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre
 
 ### Marque de A. Martin.
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-A-Martin.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-A-Martin.jpg">
 </a>
@@ -143,7 +143,7 @@ La manufacture Auguste Martin est installée à Ardon, en Suisse. Fondée vers 1
 
 ### Marque des Usines Gutenberg,
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Gutenberg.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Gutenberg.jpg">
 </a>
@@ -160,7 +160,7 @@ Manufacture Page & Co, Greenville (Connecticut USA). Marque utilisée entre 1857
 
 ### Marque Page & Co
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Page505_0006.jpg">
   <img src="{{ site.baseurl }}/assets/images/Page505_0006.jpg">
 </a>
@@ -171,7 +171,7 @@ Manufacture Page & Co, Greenville (Connecticut USA) Marque et caractère réalis
 
 ### Marque de Hamilton Two Rivers (USA)
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Hamilton.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Hamilton.jpg">
 </a>
@@ -182,7 +182,7 @@ Manufacture Hamilton, à Two Rivers (Wisconsin, USA). Fabrique mythique, existe 
 
 ### Marque Miller & Richard
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/marque_millerRichard.jpg">
   <img src="{{ site.baseurl }}/assets/images/marque_millerRichard.jpg">
 </a>
@@ -195,7 +195,7 @@ Manufacture Miller & Richard (Edinbourg) (Connecticut USA), ur un caractère tai
 
 ### Marque de Delittle, York
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Delittle.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Delittle.jpg">
 </a>
@@ -206,7 +206,7 @@ Manufacture Dellitle, à York (Grande-Bretagne). Une des grandes fonderies brita
 
 ### Marque Day & Collins
 
-<figure class="half">
+<figure>
   <a href="{{ site.baseurl }}/assets/images/marque-dayCollins.jpg">
   <img src="{{ site.baseurl }}/assets/images/marque-dayCollins.jpg">
 </a>
