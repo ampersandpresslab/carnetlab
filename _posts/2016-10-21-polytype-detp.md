@@ -19,10 +19,13 @@ header:
   toc_icon: list
 ---
 
-Ce caractère réalisé par polytypie d'après un modèle gravé sur bois apparaît pour la première fois sous le n° 53 dans un specimen de la fonderie **Laurent & Deberny** vers 1837.<br>
-Dès 1838, le fabricant de caractères bois américain **Nesbitt** propose un caractère très proche.
+Ce caractère réalisé par polytypie d'après un modèle gravé sur bois apparaît pour la première fois sous le n° 53 dans un spécimen de la fonderie **Laurent & Deberny** vers 1837.<br>
 
-Ce caractère sera très longtemps disponible chez **Deberny** puis **Deberny et Peignot** sous le nom de Vénitienne. Il est impossible de dater ces deux seuls caractères, j'aime à croire qu'ils ont été peut-être vendu par **Laurent & Deberny**.
+La polytypie a été inventée à Paris par l'alsacien F. Hoffmann. Elle sera longtemps utilisée pour produire de grands caractères ornementés, le plus souvent vendus à la pièce par les fondeurs.
+
+Dès 1838, le fabricant de caractères bois américain **Nesbitt** propose un caractère très proche. Ce qui indique une circulation extrêmement rapide des modèles européens.
+
+Ce caractère restera très longtemps disponible chez **Deberny** puis **Deberny et Peignot** sous le nom de Vénitienne. Il est impossible de dater ces deux seuls caractères, j'aime à croire qu'ils ont été peut-être vendus par **Laurent & Deberny**.
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/poly1.jpg">
