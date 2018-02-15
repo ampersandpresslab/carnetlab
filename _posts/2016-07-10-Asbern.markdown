@@ -1,4 +1,5 @@
 ---
+layout: single
 title: La presse à épreuve Asbern ADR-1
 date: '2016-07-10'
 tags:
