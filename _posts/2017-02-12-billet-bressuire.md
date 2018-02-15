@@ -93,7 +93,7 @@ Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau
 
 # Premières recherches
 
-Suite à la découverte d'une estampille sur un caractère isolé (Chabauty), puis des autres au fur et à mesure de mes acquisitions, l'enquête commence. D'abord dans ma bibliothèque (par une publicité, pas de Chabauty mais d'un autre fabricant de Bressuire, Audebaud) puis sur internet, je consulte également les bibliothèques numériques et les annuaires du XIX^^e^^ siècle. Enfin je me renseigne sur place (par téléphone).
+Suite à la découverte d'une estampille sur un caractère isolé (Chabauty), puis des autres au fur et à mesure de mes acquisitions, l'enquête commence. D'abord dans ma bibliothèque (par une publicité, pas de Chabauty mais d'un autre fabricant de Bressuire, Audebaud) puis sur internet, je consulte également les bibliothèques numériques et les annuaires du XIXe siècle. Enfin je me renseigne sur place (par téléphone).
 
 # Internet
 

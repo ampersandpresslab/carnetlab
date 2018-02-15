@@ -23,7 +23,7 @@ toc_label: Sommaire
 toc_icon: list
 ---
 
-La bibliothèque de l'École Estienne possède un spécimen signé **Dugnat et Cie**, installé à Bressuire. Il est non daté, mais supposé être paru vers 1850 (à vérifier / prouver). Je l'ai repéré sur le catalogue de la bibliothèque il y a quelques mois, et il m'a entre-temps été généreusement signalé par un étudiant de l'école (merci) qui m'a donné la possibilité de le voir.
+La bibliothèque de l'École Estienne possède un spécimen signé **Dugnat et Cie**, installé à Bressuire. Il est non daté, mais supposé être paru vers 1850 (à priori pas avant 1875). Je l'ai repéré sur le catalogue de la bibliothèque il y a quelques mois, et il m'a entre-temps été généreusement signalé par un étudiant de l'école (merci) qui m'a donné la possibilité de le voir.
 
 Ce qui fait à mes yeux le grand intérêt de ce spécimen, c'est bien sûr que ledit **Dugnat** est établi à Bressuire, et que c'est peut-être le pionnier de cette industrie qui a fleuri dans cette ville pendant plus d'un siècle.
 
@@ -51,6 +51,8 @@ Seule indication "technique", cet avis en page des compositions des polices :
 
 # Quand ?
 
-Au vu de son contenu, on peut être tenté de le dater des années 1850, je continue à chercher. Quoi qu'il en soit, il présente des polices que pour ma part je n'avais encore jamais vu, ni en bois ni en plomb. De même jamais je n'avais rencontré ce nom, et je n'ai jamais vu de marque "Dugnat". Les recherches sur internet n'ont encore rien donné, ni dans la presse spécialisée ni ailleurs.
+Au vu de son contenu, on peut être tenté de le dater des années 1850, mais pour le moment la raison sociale Geffard et Dugnat (orthographié Dunias) apparaît dans l'_Annuaire du commerce_ en 1875\. Par ailleurs un Dugnat, Guillaume (1837-?) est recensé à Bressuire sous la profession de graveur en 1881\.
+
+Quoi qu'il en soit, il présente des polices que pour ma part je n'avais encore jamais vu, ni en bois ni en plomb. De même jamais je n'avais rencontré ce nom, et je n'ai jamais vu de marque "Dugnat". Les recherches sur internet n'ont encore rien donné (à part les mentions citées plus haut), ni dans la presse spécialisée, ni ailleurs.
 
 À suivre ...

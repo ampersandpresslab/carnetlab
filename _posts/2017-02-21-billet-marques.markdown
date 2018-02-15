@@ -5,7 +5,7 @@ date: '2017-02-21 22:32:51 +0100'
 permalink: 'carnet/:title/'
 excerpt: >-
   Les caractères bois de grande taille, souvent appelés caractères d'affiches,
-  font leur apparition dans les spécimens vers le milieu du XIX^^e^^ siècle.
+  font leur apparition dans les spécimens vers le milieu du XIXe siècle.
 sidebar:
   nav: side
 categories:
@@ -22,7 +22,7 @@ toc_label: Sommaire
 toc_icon: list
 ---
 
-Les caractères bois de grande taille, souvent appelés caractères d'affiches, font leur apparition dans les specimens vers le milieu du XIX^^e^^ siècle. Il est d'usage chez les fondeurs, puis ensuite chez les fabricants exclusifs de caractères bois, de marquer d'une estampille leurs caractères, à l'instar de la marque de fonderie apposée sur les cotés des caractères plombs.
+Les caractères bois de grande taille, souvent appelés caractères d'affiches, font leur apparition dans les specimens vers le milieu du XIXe siècle. Il est d'usage chez les fondeurs, puis ensuite chez les fabricants exclusifs de caractères bois, de marquer d'une estampille leurs caractères, à l'instar de la marque de fonderie apposée sur les cotés des caractères plombs.
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/Marques_de_fonderie.jpg">
@@ -41,7 +41,7 @@ La pratique française à l'avantage de permettre l'identification même à part
 
 # De l'intérêt des marques de fabriques
 
-Ces marques sont très intéressantes pour -- en particulier -- dater une police, pour peu que l'on réussisse à situer son propriétaire dans le temps, car les spécimens sont difficiles à trouver pour le XIX^^e^^ siècle, en particulier pour les fabrications provinciales (ceux de **Bressuire**, **Boré**, **Sainson**...). C'est souvent par la publicité dans la presse spécialisée que l'on va pouvoir identifier les fabricants et dater les polices. Pouvoir dater une police c'est aussi pouvoir un tant soit peu voir l'évolution ou le succès d'un style. On peut dire en généralisant que les styles des polices en bois sont inspirées des "fantaisies" des grandes fonderies, caractères utilisés pour les travaux de villes, mais aussi très en vogue pour les pages de titre des ouvrages dans la deuxième partie du XIX^^e^^ siècle.
+Ces marques sont très intéressantes pour -- en particulier -- dater une police, pour peu que l'on réussisse à situer son propriétaire dans le temps, car les spécimens sont difficiles à trouver pour le XIXe siècle, en particulier pour les fabrications provinciales (ceux de **Bressuire**, **Boré**, **Sainson**...). C'est souvent par la publicité dans la presse spécialisée que l'on va pouvoir identifier les fabricants et dater les polices. Pouvoir dater une police c'est aussi pouvoir un tant soit peu voir l'évolution ou le succès d'un style. On peut dire en généralisant que les styles des polices en bois sont inspirées des "fantaisies" des grandes fonderies, caractères utilisés pour les travaux de villes, mais aussi très en vogue pour les pages de titre des ouvrages dans la deuxième partie du XIXe siècle.
 
 # Les marques dans ma collection
 
