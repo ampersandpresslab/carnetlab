@@ -115,7 +115,7 @@ Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau
   <figcaption>Marque L. Saison.</figcaption>
 </figure>
 
-Manufacture L. Sainson, à Argenton. Pas d'informations trouvées sur cette manufacture (Argenton sur Creuse).
+Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860, fournisseur pour Renault & Robcis à Paris.
 
 ### Marque T. Boré
 

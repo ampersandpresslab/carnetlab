@@ -24,7 +24,7 @@ toc_label: Sommaire
 toc_icon: list
 ---
 
-J'ai rassemblé dans la collection de caractères en bois plusieurs fontes estampillées (sur tous les caractères contrairement à la pratique anglo-saxonne) du nom de différents fabricants, tous établis à Bressuire dans les Deux-Sèvres.
+J'ai rassemblé dans la collection de caractères en bois plusieurs fontes estampillées (sur tous les caractères contrairement à la pratique anglo-saxonne) du nom de différents fabricants, tous établis à Bressuire dans les Deux-Sèvres. Ce billet reflète l'évolution de ma recherche qui a débutée en 2011.
 
 # Les marques
 
@@ -45,7 +45,7 @@ Je possède des fontes des fabricants suivants :
   <figcaption>Marque de Chabauty.</figcaption>
 </figure>
 
-Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1857 (Chabauty-Moreau, puis Chabauty-Ploquin). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855"
+Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1857 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
 
 ## Marque Ploquin, Bressuire
 
@@ -56,7 +56,7 @@ Manufacture Chabauty, à Bressuire. Probablement la première génération de fa
   <figcaption>Marque de Ploquin.</figcaption>
 </figure>
 
-Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, antérieure à E. Ploquin.
+Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, antérieure à E. Ploquin. Il peut s'agir de la marque liée à la raison sociale Ploquin-Chabauty (quand le gendre de Armand Chabauty prend la main, vers 1866).
 
 ## Marque de E. Ploquin, Bressuire
 
@@ -67,7 +67,7 @@ Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, an
   <figcaption>Marque de E. Ploquin.</figcaption>
 </figure>
 
-Manufacture E. Ploquin, à Bressuire. Une des premières fabriques de Bressuire. Gendre de Chabauty.
+Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le moment impossible d'identifier le prénom derrière ce "E.". Un Baptiste Ploquin était recensé comme fabricant de caractères en bois en 1881.
 
 ## Marque de Audebaud, Bressuire
 
@@ -78,7 +78,7 @@ Manufacture E. Ploquin, à Bressuire. Une des premières fabriques de Bressuire.
   <figcaption>Marque de Constant Audebaud.</figcaption>
 </figure>
 
-Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins deux catalogues dont un remarqué à l'_Exposition Universelle de 1888_. Concurrent de E. Ploquin.
+Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent de E. Ploquin.
 
 ## Marque de Henri Dureau, Bressuire
 
