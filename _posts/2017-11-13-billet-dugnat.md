@@ -23,7 +23,7 @@ toc_label: Sommaire
 toc_icon: list
 ---
 
-La bibliothèque de l'École Estienne possède un spécimen signé **Dugnat et Cie**, installé à Bressuire. Il est non daté, mais sur la notice du catalogue, supposé être paru vers 1850 (en fait ce serait plutôt entre 1875 et 1885, voir plus bas). Je l'ai repéré sur le catalogue de la bibliothèque il y a quelques mois, et il m'a entre-temps été généreusement signalé par un étudiant de l'école (merci) qui m'a donné la possibilité de le voir.
+La bibliothèque de l'[École Estienne](http://www.ecole-estienne.paris/) possède un [spécimen](http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002107187?highlight=dugnat) signé **Dugnat et Cie**, installé à Bressuire. Il est non daté, mais sur la notice du catalogue, supposé être paru vers 1850 (en fait ce serait plutôt entre 1875 et 1885, voir plus bas). Je l'ai repéré sur le catalogue de la bibliothèque il y a quelques mois, et il m'a entre-temps été généreusement signalé par un étudiant de l'école (merci) qui m'a donné la possibilité de le voir.
 
 Ce qui fait à mes yeux le grand intérêt de ce spécimen, c'est bien sûr que ledit **Dugnat** est établi à Bressuire, que je ne le connaissais pas et que c'est donc un autre de ces pionniers de cette industrie qui a fleuri dans cette ville pendant plus d'un siècle.
 
