@@ -80,7 +80,7 @@ Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, an
   <figcaption>Marque de E. Ploquin.</figcaption>
 </figure>
 
-Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le moment impossible d'identifier le prénom derrièrre ce "E.".
+Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le moment impossible d'identifier le prénom derrière ce "E.". Un Baptiste Ploquin était recensé comme fabricant de caractères en bois en 1881.
 
 ### Marque de Audebaud, Bressuire
 
@@ -126,7 +126,7 @@ Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860, fournisseur p
   <figcaption>Marque T. Bore.</figcaption>
 </figure>
 
-Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1852 et 1870\. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (Gazette des Beaux-Arts). Un spécimen existe à Forney au nom de T.F. Boré, graveur.
+Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1852 et 1870\. Il est actif dès 1864 comme fabricant de presses mécaniques et fournisseur de matériel d'imprimerie. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (Gazette des Beaux-Arts). Un spécimen existe à Forney au nom de T.F. Boré, graveur.
 
 ## Les manufactures en Suisse
 
