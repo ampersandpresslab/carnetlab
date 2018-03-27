@@ -33,7 +33,7 @@ Le sous-titre du spécimen annonce "Atelier de gravure sur bois" sans plus de pr
 
 On serait donc en présence (supposition non fondée...) dans cette ville à des "reconversions" opportunes dans une industrie naissante en France.<br>
 Il est aussi intéressant de noter que dans cette région on exploitait le bois de cormier (un poirier), d'ailleurs une publicité de **Ploquin** indique qu'il exploite lui-même un tel bois.<br>
-La concentration à Bressuire de fabricants s'explique donc peut-être en partie par ces conjonctions : un pionnier, la réussite, les imitateurs et la concurrence (**Ploquin** concurrent de **Audebaud**).
+La concentration à Bressuire de fabricants s'explique donc peut-être en partie par ces conjonctions : un pionnier (Chabauty), la réussite, les imitateurs et la concurrence (**Ploquin** concurrent de **Audebaud**).
 
 # Le specimen de Dugnat
 
@@ -48,6 +48,8 @@ C'est un spécimen d'une grande richesse qui compte environ 90 pages de polices 
 Seule indication "technique", cet avis en page des compositions des polices :
 
 > _M. les imprimeurs peuvent se persuader que toutes les lettres sortant de notre atelier seront bien confectionnées et en bon bois, et qu'elles auront baignées dans l'huile pendant 24 heures._
+
+Nous ne saurons pas quel bois, quand au bain d'huile (en général de l'huile de lin), il permet de saturer le bois afin de l'empêcher de "boire" l'encre, et aussi de le rendre plus résistant à l'humidité et aux insectes.
 
 # Quand ?
 

@@ -25,7 +25,7 @@ La polytypie a été inventée à Paris par l'alsacien F. Hoffmann. Elle sera lo
 
 Dès 1838, le fabricant de caractères bois américain **Nesbitt** propose un caractère très proche. Ce qui indique une circulation extrêmement rapide des modèles européens.
 
-Ce caractère restera très longtemps disponible chez **Deberny** puis **Deberny et Peignot** sous le nom de Vénitienne. Il est impossible de dater ces deux seuls caractères, j'aime à croire qu'ils ont été peut-être vendus par **Laurent & Deberny**.
+Ce caractère restera très longtemps disponible chez **Deberny** puis **Deberny et Peignot** sous le nom de Vénitienne. Il est impossible de dater ces deux seuls caractères, j'aime à croire qu'ils ont été vendus par **Laurent & Deberny**.
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/poly1.jpg">
