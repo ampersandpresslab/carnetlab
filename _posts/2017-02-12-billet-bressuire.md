@@ -4,10 +4,8 @@ title: Les fabricants de caractères bois à Bressuire
 date: '2017-02-12 22:32:51 +0100'
 permalink: 'carnet/:title'
 excerpt: >-
-  J’ai rassemblé dans la collection de caractères en bois plusieurs fontes
-  estampillées (sur tous les caractères contrairement à la pratique
-  anglo-saxonne) du nom de différents fabricants, tous établis à Bressuire dans
-  les Deux-Sèvres.
+  Comment ont débutés mes recherches sur les fabricants de caractères en bois, à
+  partir d'un cas de fabricants, tous établis à Bressuire dans les Deux-Sèvres.
 header:
   image: assets/images/Ploquin-caractere.jpg
   caption: 'Fonte complète, E. Ploquin'
@@ -25,6 +23,8 @@ toc_icon: list
 ---
 
 J'ai rassemblé dans la collection de caractères en bois plusieurs fontes estampillées (sur tous les caractères contrairement à la pratique anglo-saxonne) du nom de différents fabricants, tous établis à Bressuire dans les Deux-Sèvres. Ce billet reflète l'évolution de ma recherche qui a débutée en 2011.
+
+**Cette recherche et les billets en faisant mention sont régulièrement mis à jour. Il n'est question ici que de raconter comment j'ai débuté cette recherche, depuis beaucoup de choses ont bougé (note du 30/03/2018).**
 
 # Les marques
 
@@ -99,7 +99,7 @@ Suite à la découverte d'une estampille sur un caractère isolé (Chabauty), pu
 
 La première mention que je déniche concerne Audebaud, sur le forum de Briarpress. Quelqu'un cherche des informations sur ce fabricant dont il possède une fonte qu'il vient de numériser pour en proposer un revival en 2010 (qu'il appellera l'Audebaud !). C'est une variante d'une fonte que je possède, incomplète (achetée à la pièce..., en Angleterre justement). C'est une très belle police, de type Clarendon, mais plus « douce », plus arrondie (voir aussi Luc Devroye une mine sur la typographie).
 
-# Les specimens
+# Les spécimens
 
 Bien entendu se pose la question de savoir si il existe des catalogues de spécimens de ces fabricants.
 

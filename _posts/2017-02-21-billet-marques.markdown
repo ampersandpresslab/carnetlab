@@ -22,7 +22,7 @@ toc_label: Sommaire
 toc_icon: list
 ---
 
-Les caractères bois de grande taille, souvent appelés caractères d'affiches, font leur apparition dans les specimens vers le milieu du XIXe siècle. Il est d'usage chez les fondeurs, puis ensuite chez les fabricants exclusifs de caractères bois, de marquer d'une estampille leurs caractères, à l'instar de la marque de fonderie apposée sur les cotés des caractères plombs.
+Les caractères bois de grande taille, souvent appelés caractères d'affiches, font leur apparition dans les spécimens vers le milieu du XIXe siècle. Il est d'usage chez les fabricants exclusifs de caractères bois, de marquer d'une estampille leurs caractères, à l'instar de la marque de fonderie apposée sur les cotés des caractères plombs.
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/Marques_de_fonderie.jpg">
@@ -33,15 +33,15 @@ Les caractères bois de grande taille, souvent appelés caractères d'affiches, 
 
 # Marquer ses productions
 
-Cette pratique n'est pourtant pas systématique, certains ne marquent pas du tout leurs caractères (les caractères de **Deberny et Peignot** ne le sont jamais, comme beaucoup d'autres produits par des grandes fonderies au XX^^e^^ siècle).
+Cette pratique n'est pourtant pas systématique, certains ne marquent pas du tout leurs caractères (les caractères de **Deberny et Peignot** ne le sont jamais, comme beaucoup d'autres produits par des grandes fonderies au XXe siècle).
 
-La marque peut se trouver sur tous les caractères, c'est souvent l'usage en France, elle est frappée à la main à l'aide d'un poinçon, sur le coté ou le dessous du caractère, parfois comme chez le suisse A. Martin, elle ne se retrouve que sur les caractères W, X, et Y, chez les anglo-saxons l'usage est de n'estampiller que les A.
+La marque peut se trouver sur tous les caractères, c'est souvent l'usage en France, elle est frappée à l'aide d'un poinçon, sur le coté ou le dessous du caractère, parfois comme chez le suisse A. Martin, elle ne se retrouve que sur les caractères W, X, et Y, chez les anglo-saxons l'usage est de n'estampiller que les A.
 
-La pratique française à l'avantage de permettre l'identification même à partir d'une police même incomplète. Les spécimens n'ayant pas tous pu arriver jusqu'à nous, ces marques atteste aujourd'hui l'existence de manufactures qui resteraient ignorées sans elles.
+La pratique française à l'avantage de permettre l'identification à partir d'une police même incomplète. Les spécimens n'ayant pas tous pu arriver jusqu'à nous, ces marques atteste aujourd'hui l'existence de manufactures qui resteraient ignorées sans elles.
 
 # De l'intérêt des marques de fabriques
 
-Ces marques sont très intéressantes pour -- en particulier -- dater une police, pour peu que l'on réussisse à situer son propriétaire dans le temps, car les spécimens sont difficiles à trouver pour le XIXe siècle, en particulier pour les fabrications provinciales (ceux de **Bressuire**, **Boré**, **Sainson**...). C'est souvent par la publicité dans la presse spécialisée que l'on va pouvoir identifier les fabricants et dater les polices. Pouvoir dater une police c'est aussi pouvoir un tant soit peu voir l'évolution ou le succès d'un style. On peut dire en généralisant que les styles des polices en bois sont inspirées des "fantaisies" des grandes fonderies, caractères utilisés pour les travaux de villes, mais aussi très en vogue pour les pages de titre des ouvrages dans la deuxième partie du XIXe siècle.
+Ces marques sont très intéressantes pour -- en particulier -- dater une police, pour peu que l'on réussisse à situer son propriétaire dans le temps, car les spécimens sont difficiles à trouver pour le XIXe siècle, en particulier pour les fabrications provinciales (ceux de **Bressuire**, **Boré**, **Sainson**...). C'est souvent par la publicité dans la presse spécialisée que l'on va pouvoir identifier les fabricants et dater les polices. Pouvoir dater une police c'est aussi pouvoir un tant soit peu suivre l'évolution ou le succès d'un style. On peut dire en généralisant que les styles des polices en bois sont inspirées des "fantaisies" des grandes fonderies (d'abord anglaises), caractères utilisés pour les travaux de villes, mais aussi très en vogue pour les pages de titre des ouvrages à partir de 1820.
 
 # Les marques dans ma collection
 
@@ -126,7 +126,7 @@ Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860, fournisseur p
   <figcaption>Marque T. Bore.</figcaption>
 </figure>
 
-Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1852 et 1870\. Il est actif dès 1864 comme fabricant de presses mécaniques et fournisseur de matériel d'imprimerie. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (Gazette des Beaux-Arts). Un spécimen existe à Forney au nom de T.F. Boré, graveur.
+Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1852 et 1870\. Il est actif dès 1864 comme fabricant de presses mécaniques et fournisseur de matériel d'imprimerie. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (_Gazette des Beaux-Arts_). Un spécimen de deux feuillets existe à Forney au nom de T.F. Boré, graveur.
 
 ## Les manufactures en Suisse
 
@@ -150,7 +150,7 @@ La manufacture Auguste Martin est installée à Ardon, en Suisse. Fondée vers 1
   <figcaption>Marque Usines Gutenberg.</figcaption>
 </figure>
 
-Genève Usines Gutenberg, à Genève (Suisse). Fin dix-neuvième siècle, a possédé des succursales à Paris.
+Genève Usines Gutenberg, à Genève (Suisse). Fin dix-neuvième siècle, a possédé des succursales (ou la maison mère ?) à Paris, sous la marque de société Ch. Bonnet et cie (un acte notarié de 82 en fait mention sous le nom Ch. Bonnet & cie, Chevalier et Dreyfus, dite "Usines Gutenberg").
 
 ## Les manufactures aux États-Unis
 
@@ -202,7 +202,7 @@ Manufacture Miller & Richard (Edinbourg) (Connecticut USA), ur un caractère tai
   <figcaption>Marque Delittle.</figcaption>
 </figure>
 
-Manufacture Dellitle, à York (Grande-Bretagne). Une des grandes fonderies britannique.
+Manufacture Dellitle, à York (Grande-Bretagne), les archives et une partie du matérielle (matrice et pantographe) sont conservées par la London Type Archive.
 
 ### Marque Day & Collins
 

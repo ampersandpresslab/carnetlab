@@ -58,7 +58,9 @@ Ce catalogue présente toutes les fontes disponibles dans l'imprimerie Paul Gruo
 
 # Un témoin
 
-Ce document présente un intérêt particulier en ce qu'il est en quelque sorte un catalogue topographique de la collection proposée aux clients par Gruot. En effet, chaque caractère est localisé dans un "casier" numéroté (un rang) et numéroté dans ce casier.<br>
-Il représente le panorama type d'un imprimeur de labeur au début du siècle, avec ses casses de plomb pour le texte, les cartes de visite ou la titraille et les affiches. {% include gallery caption="Quelques images du catalogue." %}
+Ce document présente un intérêt particulier en ce qu'il est en quelque sorte un catalogue topographique des caractères proposés aux clients par Gruot. En effet, chaque caractère est localisé dans un "casier" numéroté (un rang) et répertorié dans ce casier (au tiroir).<br>
+Il représente le panorama type d'un imprimeur de labeur et d'affiche (au vue du nombre de caractères en bois) au début du siècle, avec ses casses de plomb pour le texte, les cartes de visite ou la titraille et les affiches.
+
+{% include gallery caption="Quelques images du catalogue." %}
 
 Le catalogue complet est visible sur [Flickr](https://www.flickr.com/photos/46165392@N05/albums/72157631869919856).
