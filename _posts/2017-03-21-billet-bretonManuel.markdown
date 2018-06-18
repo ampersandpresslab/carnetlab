@@ -111,4 +111,4 @@ Ces chapitres sont de taille très variable, ils permettent d'aborder l'essentie
 
 - Breton (Victor), _Manuel pratique de composition typographique comprenant toutes les opérations que comporte la profession en dehors des lignes courantes_, Imprimerie des cours professionnels, Paris, 1911.<br>
 
-- Chauvet Paul, _Les Ouvriers du Livre et du Journal_, Éditions de l'Atelier, Paris, 1971
+- Chauvet (Paul), _Les Ouvriers du Livre et du Journal_, Éditions de l'Atelier, Paris, 1971

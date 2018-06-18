@@ -85,7 +85,7 @@ La **Prouty job press** une petite presse à platine à marbre fixe (seule la pl
 
 À ce jour la machine n'est pas opérationnelle, le plus gros problème étant une fêlure au niveau d'une vis de réglage sur un bras de la platine, qui apparaît sur une ancienne réparation, et qui déséquilibre la mise en pression. Il va falloir que je trouve un bon soudeur pour régler ça...<br>
 
-Par ailleurs il faut que je fasse refaire les rouleaux, redessine et refasse (comment ?) le système de pinces de marge, et l'entraînement du plateau encreur. Il me faudra l'aide de quelqu'un possédant cette machine pour avoir des photos précises de ces pièces (il y en a une autre en France que ce billet m'a permit de retrouver, et à priori au moins une autre).
+Par ailleurs il faut que je fasse refaire les rouleaux, redessine et refasse (comment ?) le système de pinces de marge, et l'entraînement du plateau encreur. Il me faudra l'aide de quelqu'un possédant cette machine pour avoir des photos précises de ces pièces (je connais à ce jour deux autres possesseurs d'une Prouty en France).
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/machines/prouty/10072017-Prouty_Job_Press_05.jpg">

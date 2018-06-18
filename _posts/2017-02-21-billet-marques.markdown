@@ -213,7 +213,7 @@ Manufacture Dellitle, à York (Grande-Bretagne), les archives et une partie du m
   <figcaption>Marque Day &amp; Collins.</figcaption>
 </figure>
 
-Manufacture Day & Collins
+Manufacture Day & Collins.
 
 # Appel à témoins
 
