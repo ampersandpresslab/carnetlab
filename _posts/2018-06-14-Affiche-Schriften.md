@@ -33,7 +33,7 @@ Fonderie animée par Stephan Müller, Pierre Pané-Farré et Reymund Schröder, 
 
 Voici la déclaration d'intention de la fonderie :
 
-> The assortment of commercially available fonts is in constant flux. Typeface design is inevitably informed by media-specific conditions and the aesthetic discourse of the day. A further layer of complexity derives from the attitudes of the foundry and designers involved. Within each typeface, the entire context of its origin is subtly stored. Once released, additional perspectives accrue through its application. > Forgotten Shapes publishes digital reconstructions of typefaces that have somehow vanished. We revive such typefaces according to the guiding principle of Werktreue--that is, in a form as faithful to the original as possible. Extensive research forms the point of departure for all projects. Accompanying articles emphasize the background of each typeface in an appropriate narration along the found sources. These articles lead to an archive in which type design recalls fragments of its genesis.
+> The assortment of commercially available fonts is in constant flux. Typeface design is inevitably informed by media-specific conditions and the aesthetic discourse of the day. A further layer of complexity derives from the attitudes of the foundry and designers involved. Within each typeface, the entire context of its origin is subtly stored. Once released, additional perspectives accrue through its application. Forgotten Shapes publishes digital reconstructions of typefaces that have somehow vanished. We revive such typefaces according to the guiding principle of Werktreue--that is, in a form as faithful to the original as possible. Extensive research forms the point of departure for all projects. Accompanying articles emphasize the background of each typeface in an appropriate narration along the found sources. These articles lead to an archive in which type design recalls fragments of its genesis.
 
 # Le travail de Pierre Pané-Farré
 
@@ -42,8 +42,8 @@ Chercheur et dessinateur de caractères allemand basé à Leipzig, Pierre Pané-
 Par ce biais, il a notamment étudié les affiches peintes au pochoir directement sur les murs de Paris[^1]. De la même manière il a livré un travail archéologique d'une grande rigueur (servi par une superbe maquette qui lui a valu la médaille d'or du [plus beau livre du monde](http://www.stiftung-buchkunst.de/de/schoenste-buecher-aus-aller-welt/2018/goldmedaille.html) en 2018[^2]), avec _Soirée fantastique: Plakate der Druckerei Oskar Leiner in Leipzig_[^3]. Étude menée d'après photographies (celles d'Alexander Seitz) et en puisant dans le fonds de l'imprimeur Oskar Leiner de Leipzig.
 
 <figure>
-  <a href="{{ site.baseurl }}/assets/images/Polytypées_0009.jpg">
-  <img src="{{ site.baseurl }}/assets/images/Polytypées_0009.jpg">
+  <a href="{{ site.baseurl }}/assets/images/Polytypees_0009.jpg">
+  <img src="{{ site.baseurl }}/assets/images/Polytypees_0009.jpg">
 </a>
   <figcaption>Détail de la "génoise", marque de Tarbé, 1838 (collection personnelle).</figcaption>
 </figure>
