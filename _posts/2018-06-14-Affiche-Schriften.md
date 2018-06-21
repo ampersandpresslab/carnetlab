@@ -73,8 +73,8 @@ Je ne vais pas en dire plus sur ce texte bref mais néanmoins très riche et den
 On aura profit à compléter cette lecture par celle des autres textes de Pierre Pané-Farré cités en notes. Et, comme il le souligne lui-même en introduction à son article, on ne pourra se passer, en particulier pour étudier l'origine anglo-saxonne de ces styles, de lire, ou relire Nicolette Gray[^5], ou plus proche de nous, l'article de Rob Banham, "Die allergrößten Schriften Englands" dans l'ouvrage collectif _Vom Buch auf die Straße_ (cf. note 4).
 
 <figure>
-  <a href="{{ site.baseurl }}/assets/images/Polytypées_0012-2.jpg">
-  <img src="{{ site.baseurl }}/assets/images/Polytypées_0012-2.jpg">
+  <a href="{{ site.baseurl }}/assets/images/Polytypees_0012-2.jpg">
+  <img src="{{ site.baseurl }}/assets/images/Polytypees_0012-2.jpg">
 </a>
   <figcaption>La plupart des caractères dit d'affiches sont polytypés, puis mis à hauteur sur bois. Détail du montage de la "génoise", Tarbé, 1838 (collection personnelle).</figcaption>
 </figure>
