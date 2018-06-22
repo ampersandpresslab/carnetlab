@@ -89,6 +89,6 @@ Le travail de Pané-Farré est précieux pour quiconque est intéressé par l'é
 
 [^3]: P. Pané-Farré, _Soirée Fantastique: Plakate der Druckerei Oskar Leiner in Leipzig_ , Leipzig, Institut für Buchkunst, 2017.
 
-[^4]: Dont certains éléments peuvent être complétés par la lecture de son article dans _Vom Buch auf die Straße_, J. Blume, P. Pané-Farré, F. Smeijers (ed.). Institut für Buchkunst, Leipzig, 2014
+[^4]: Dont certains éléments peuvent être complétés par la lecture de son article sur les caractères chromatiques en Allemagne dans _Vom Buch auf die Straße_, J. Blume, P. Pané-Farré, F. Smeijers (ed.). Institut für Buchkunst, Leipzig, 2014
 
 [^5]: N. Gray, _Nineteenth Century Ornamented Typefaces_, London, 1976
