@@ -47,9 +47,9 @@ gallery:
   - url: /assets/images/machines/Asbern0001.jpg
     image_path: /assets/images/machines/Asbern0001.jpg
     alt: placeholder image 9
-    toc: true
-    toc_label: Sommaire
-    toc_icon: list
+toc: true
+toc_label: Sommaire
+toc_icon: list
 ---
 
 Cette presse a été produite par la firme _Asbern Maschinenbau GmbH_ de Augsbourg en Allemagne entre 1960 et 1970\. C'est une presse à épreuve dite "de précision".
