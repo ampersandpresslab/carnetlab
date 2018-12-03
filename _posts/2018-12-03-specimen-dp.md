@@ -82,7 +82,17 @@ Un des nouveaux catalogues de caractères de la collection. Il présente les car
 
 # Les Caractères d'affiches de Deberny & Peignot (1937).
 
-On y trouve les classiques de cette maison, le _Scribe_ de Jacno (1936), le _Peignot_ de Cassandre (1937), l'_Europe_ (déclinaison du Futura pour le marché français), le _Pharaon_ (1933), le _Robur_ d'Auriol (1912), le _Polyphème_ (1926), ainsi qu'une série d'égyptiennes et d'antiques.
+On y trouve les classiques de cette maison :
+
+- le _Scribe_ de Jacno (1936) ;
+- le _Peignot_ de Cassandre (1937) ;
+- l'_Europe_ (déclinaison du Futura pour le marché français) ;
+- le _Pharaon_ (1933) ;
+- le _Robur_ d'Auriol (1912) ;
+- le _Polyphème_ (1926) ;
+- les ornements Latour.
+
+ainsi qu'une série d'égyptiennes et d'antiques.
 
 # Préface
 
