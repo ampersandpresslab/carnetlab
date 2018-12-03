@@ -49,7 +49,7 @@ gallery:
   - url: >-
       assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0010.jpg
     image_path: >-
-      assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_00101.jpg
+      assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0010.jpg
     alt: placeholder image 1
   - url: >-
       assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0011.jpg
@@ -72,9 +72,9 @@ gallery:
       assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0014.jpg
     alt: placeholder image 2
   - url: >-
-      assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0015.jpg
+      assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0016.jpg
     image_path: >-
-      assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0015.jpg
+      assets/images/caraAffDP/Specimen-Caracteres-d-affiches_Deberny-et-Peignot_1937_0016.jpg
     alt: placeholder image 3
 ---
 
@@ -91,12 +91,11 @@ On y trouve les classiques de cette maison :
 - le _Robur_ d'Auriol (1912) ;
 - le _Polyphème_ (1926) ;
 - les ornements Latour.
-
-ainsi qu'une série d'égyptiennes et d'antiques.
+- une série d'égyptiennes et d'antiques.
 
 # Préface
 
-> Nous avons réuni dans ce fascicule, pour les imprimeurs qui désirent entreprendre des travaux d'affiche, quelques-unes des plus belles séries de notre magnifique collection de caractères d'affiches en matière et en bois. Cette documentation d'adresse aussi à nos clients qui voudraient renouveler leur matériel ou le moderniser ; elle peut éviter de longues recherches, tous les travaux habituels pouvant être exécutés avec les séries présentées, toutefois, si elles ne convenaient pas, pour certains travaux nous sommes à même d'en proposer d'autres et d'en soumettre épreuve.
+> Nous avons réuni dans ce fascicule, pour les imprimeurs qui désirent entreprendre des travaux d'affiche, quelques-unes des plus belles séries de notre magnifique collection de caractères d'affiches en matière et en bois. Cette documentation s'adresse aussi à nos clients qui voudraient renouveler leur matériel ou le moderniser ; elle peut éviter de longues recherches, tous les travaux habituels pouvant être exécutés avec les séries présentées, toutefois, si elles ne convenaient pas, pour certains travaux nous sommes à même d'en proposer d'autres et d'en soumettre épreuve.
 
 > Les caractères en matière ont été présentés sur ces épreuves accompagnés de l'indication de poids et de la composition des polices minima ainsi que de la catégorie du tarif applicable à chaque série afin de permettre éventuellement l'estimation des quantités et des prix. Les caractères d'affiches en matières sont fondus évidés à partir du corps 60 pour alléger les polices, leur résistance et la qualité de nos alliages sont trop connus pour qu'il nous soit nécessaire d'insister.
 
@@ -104,7 +103,9 @@ ainsi qu'une série d'égyptiennes et d'antiques.
 
 > Que nos clients n'hésitent pas à nous consulter ou a interroger nos représentants, sur simple demande et sans aucun engagement nous établissons le devis des caractères choisis, à nos meilleurs conditions suivant l'importance de la commande éventuelle.
 
-Cette préface nous apprend une chose importante, la production est bien faîte sur place, par la fonderie. Deberny & Peignot, à cette date du moins, n'a pas recourt à un prestataire pour la réalisation de ses caractères en bois. Ça n'est pas toujours le cas dans les fonderie, et ce le sera de moins en moins après guerre.
+Cette préface nous apprend une chose importante, la production est bien faite sur place, par la fonderie. Deberny & Peignot, à cette date du moins, n'a pas recourt à un prestataire pour la réalisation de ses caractères en bois. Ça n'est pas toujours le cas dans les fonderie, et ce le sera de moins en moins après guerre.
+
+Le spécimen s'achève sur une publicité pour la presse à épreuve de Deberny et Peignot.
 
 {% include gallery caption="Quelques images du catalogue." %}
 
