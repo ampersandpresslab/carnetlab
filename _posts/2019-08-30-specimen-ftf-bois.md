@@ -8,8 +8,8 @@ header:
   teaser: assets/images/SpecimenFTF/Specimen_FTF_0015.jpg
   caption: 'Page de titre, détail'
 excerpt: >-
-  Catalogue des caractères d'affiches en bois et des vignettes et galvanos de la
-  Fonderie Typographique Française vers 1922.
+  Catalogue des caractères d'affiches en bois, des vignettes et galvanos de la
+  ** Fonderie Typographique Française ** dans les années 20.
 sidebar:
   - title: Titre
     text: Caractères d'affiches
@@ -61,19 +61,19 @@ gallery:
     alt: placeholder image 10
 ---
 
-Ce catalogue présente les caractères d'affiches en bois, des ornements ainsi que des galvanos, disponibles dans la Fonderie Typographique Française.
+Ce catalogue présente les caractères d'affiches en bois, des ornements ainsi que des galvanos, proposés dans les années 20 par la **Fonderie Typographique Française**.
 
 # La Fonderie Typographique Française.
 
-La Fonderie Typographique Française (FTF) est créée en 1921, par la fusion des fonderies de caractères Turlot, Saling, Durey et Berthier, Renault et Marcou, Huart. Ce type de fusion est rendu nécessaire par un marché en déclin dans l'immédiate après-guerre. Deux ans plus tard, la Fonderie Deberny et Peignot naît à son tour par la fusion de la Fonderie G. Peignot & Fils et de la Fonderie Tuleu, Girard et Cie.
+La **Fonderie Typographique Française** (FTF) est créée en 1921, par la fusion des fonderies de caractères **Turlot** **Saling**, **Durey et Berthier**, **Renault et Marcou**, **Huart**. Ce type de fusion est rendu nécessaire par un marché en déclin dans l'immédiate après-guerre. Deux ans plus tard, la **Fonderie Deberny et Peignot**naît à son tour par la fusion de la **Fonderie G. Peignot & Fils** et de la **Fonderie Tuleu, Girard et Cie**.
 
-En 1969, la FTF devient "Société nouvelle de la fonderie typographique française" puis est cédée en 1974 à la Fundición tipográfica Neufville de Barcelone.
+En 1969, la **FTF** devient **Société nouvelle de la fonderie typographique française** puis est cédée en 1974 à la **Fundición tipográfica Neufville** de Barcelone.
 
-# Les Caractères d'affiches bois et galvanos de la Fonderie Typographique Française.
+# Les _Caractères d'affiches bois et galvanos de la Fonderie Typographique Française_.
 
-Ce catalogue n'est pas daté, mais on peut le situer entre 1922 et 1930\. À première vue, peu de création, on revisite des formes créées plus de 40 ans avant comme cet étonnant caractère de la page 162 dont on trouve l'inspiration dans un catalogue Ploquin de 1880\. L'essentiel des dessins de caractères proposés est en effet déjà connu, voire un peu daté. Les encadrements et filets tout autant que les galvanos proposés ici sont encore au mieux de style Art nouveau.
+Ce catalogue n'est pas daté, mais on peut le situer entre 1922 et 1930\. À première vue, peu de création, on revisite des formes créées plus de 40 ans avant comme cet étonnant caractère de la page 162 dont on trouve l'[inspiration](http://bit.ly/2k58FoV) dans un catalogue **Ploquin** de 1883, quoique inversé et la forme pyramidale en plus (je cherche toujours le modèle exact, je ne crois pas à un dessin original ici). L'essentiel des dessins de caractères proposés est en effet déjà connu, voire un peu daté. Les encadrements et filets tout autant que les galvanos proposés ici sont encore au mieux de style Art nouveau.
 
-On peut y voir l'offre d'une fonderie simplement soucieuse d'élargir son catalogue pour répondre aux besoins de ses clients. On peut supposer qu'à ce moment la fabrication des caractères bois était déléguée à des prestataires. Les manufactures exclusives – qui ne sont pas des fonderies mais fabriquaient et distribuaient en leur nom propre – fortes d'un catalogue hérité d'une existence remontant au siècle précédant (Dureau, Scherer, etc.), se sont manifestement mises à produire pour les fonderies tout en continuant à fournir les imprimeurs avec leur propre fonds.
+On peut y voir l'offre d'une fonderie simplement soucieuse d'élargir son catalogue pour répondre aux besoins de ses clients. On peut supposer qu'à ce moment la fabrication des caractères bois était déléguée à des prestataires. Les manufactures exclusives – qui ne sont pas des fonderies mais fabriquaient et distribuaient en leur nom propre – fortes d'un catalogue hérité d'une existence remontant au siècle précédant (**Dureau**, **Scherer,** etc.), se sont manifestement mises à produire pour les fonderies tout en continuant à fournir les imprimeurs avec leur propre fonds.
 
 ## Le catalogue complet est visible sur [Flickr](http://bit.ly/2lUf86O).
 

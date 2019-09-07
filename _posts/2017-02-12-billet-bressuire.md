@@ -80,6 +80,8 @@ Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le momen
 
 Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent de E. Ploquin.
 
+Un spécimen paru vers 1883 est [numérisé à Harvard](http://bit.ly/2k58FoV).
+
 ## Marque de Henri Dureau, Bressuire
 
 <figure>
