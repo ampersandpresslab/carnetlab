@@ -88,7 +88,7 @@ La société passe en commandite en 1912, sous la tutelle financière de Hermann
 
 En 1930 Hermann Tellenbach devient le directeur de la société **Manufacture de caractères en bois S.A.** de Ardon, qui succède, par achat du nom et des immeubles, à la société **A. Martin**, active depuis au moins 1889 dans cette ville. À Ardon toujours, en 1937, on voit apparaître un H. Tellenbach fabricant d'enseignes : "Enseignes lettres en bois et en métal en tous genres. Signaux routiers.", cette fois encore il est très probable qu'il s'agisse de Hermann ou son frère.
 
-En effet la Suisse compte déjà deux très grandes manufactures, celle de **A. Martin** qui est devenue on l'a dit la **Manufacture de caractères en bois S.A.**, et la manufacture **Roman Scherer**. Deux entreprises qui suffisent probablement à saturer le marché. De plus Tellenbach ayant la direction de la **Manufacture de caractères en bois S.A.** rien n'exclut qu'il n'ait rapidement fait le choix de se diversifier pour toucher d'autres marchés mais que son expérience passée à la tête de sa manufacture l'ait tout désigné pour ce poste de directeur.
+En effet la Suisse compte déjà deux très grandes manufactures, celle de **A. Martin** qui est devenue on l'a dit la **Manufacture de caractères en bois S.A.**, et la manufacture **Roman Scherer**. Deux entreprises qui suffisent probablement à saturer le marché. De plus Tellenbach ayant la direction de la **Manufacture de caractères en bois S.A.** rien n'exclut qu'il n'ait rapidement fait le choix de se diversifier pour toucher d'autres marchés, mais que son expérience passée à la tête de sa manufacture l'ait tout désigné pour ce poste de directeur.
 
 # Le spécimen de 1911
 
@@ -128,25 +128,25 @@ Ornements                | 1
 Étoiles et sujets        | 1
 Mains                    | 1
 
-On le voit, ce spécimen présente dans plus de la moitié de son contenu tout le panel des _antiques_, _égyptiennes_ et _italiennes_ en usage à l'époque plus un grand nombre de caractères qualifiés de "modernes". L'impression de "déjà vu" est assez forte dans cette partie moderne, et dans l'ensemble, la production est reste sage et ne s'égare pas dans la fantaisie outrancière qui a marqué la production des 30 dernières années.
+On le voit, ce spécimen présente dans plus de la moitié de son contenu tout le panel des _antiques_, _égyptiennes_ et _italiennes_ en usage à l'époque plus un grand nombre de caractères qualifiés de "modernes". L'impression de "déjà vu" est assez forte dans cette partie moderne, et dans l'ensemble, la production reste sage et ne s'égare pas dans la fantaisie outrancière qui a marqué la production des 30 dernières années.
 
-La typologie appliquée nous donne toutefois des indices sur l'origine de certains dessins. Ainsi les _américaines_, 5 pages, ce terme ne fait pas partie du vocabulaire habituel, comme belges ou italiennes qui sont des noms génériques pour des égyptiennes et dont on a perdu le sens. Ici on a manifestement affaire à un terme qui renvoie directement à une inspiration américaine. Et en effet ce caractère copie la _romaine Aetna_ de William Page sortie en 1870[^1]. Plus flagrant encore pour la _série Deberny_, dans ce cas l'inspiration[^2] est avouée sous couvert de dédicace. Ce caractère est copié sur la [lettre moderne](https://www.flickr.com/photos/46165392@N05/5975106323/in/album-72157678544004085/) visible dans le catalogue Deberny de 1912.
+La typologie appliquée nous donne toutefois des indices sur l'origine de certains dessins. Ainsi les _américaines_, 5 pages, ce terme ne fait pas partie du vocabulaire habituel, comme belges ou italiennes qui sont des noms génériques pour des égyptiennes et dont on a perdu le sens. Ici on a manifestement affaire à un terme qui renvoie directement à une inspiration américaine. Et en effet ce caractère copie la _romaine Aetna_ de William Page sortie en 1870[^1]. C'est plus flagrant encore pour la _série Deberny_, dans ce cas l'inspiration[^2] est avouée sous couvert de dédicace. Ce caractère est copié sur la [lettre moderne](https://www.flickr.com/photos/46165392@N05/5975106323/in/album-72157678544004085/) visible dans le catalogue Deberny de 1912.
 
 Les bordures et encadrements sont eux aussi marqués par les goûts de l'époque, à part les bordures rouges, plus classiques dans leur inspiration renaissance. Les filets "anglais", qualifiés de "simples" ici, sont proposés, mais on trouve aussi des filets "nouveaux" et "modernes", ainsi que des fermoirs et des ornements Art nouveau.
 
 # Autres exemplaires
 
-Je n'ai pu repérer qu'un autre exemplaire de ce spécimen, en Suisse. De même je n'ai pas connaissance d'estampilles au nom de ce fabricant sur des caractères en bois, ni de publicités, ce qui incite à penser que cette manufacture n'a eu qu'une existence très brève.
+Je n'ai pu repérer qu'un autre exemplaire de ce spécimen, en Suisse. De même, je n'ai pas connaissance d'estampilles au nom de ce fabricant sur des caractères en bois, ni de publicités, ce qui incite à penser que cette manufacture n'a eu qu'une existence très brève.
 
-## Le catalogue complet est visible sur [Flickr]().
+## Le catalogue complet est visible sur [Flickr](http://bit.ly/2k1aqU2).
 
 {% include gallery caption="Quelques images du catalogue." %}
 
 # Bibliographie
 
-- DEBERNY & Cie, _Le Livret typographique. Specimen de caractères_, Deberny & cie.,1912
+- DEBERNY & Cie, _Le Livret typographique. Spécimen de caractères_, Deberny & cie.,1912
 - PAGE & CO _Specimens of chromatic wood type, borders, etc. manufactured by Wm. H. Page & Co._ Greeneville, Conn. : The Co., 1874\. [Version numérique](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize&top=&left=)
 - KELLY (Rob Roy), _American Wood Type, 1828-1900: Notes on the Evolution of Decorated and Large Types_.
 - [^1]: KELLY (Rob Roy), _American Wood Type, 1828-1900: Notes on the Evolution of Decorated and Large Types_. p. 138\. Un exemple ici dans le superbe catalogue chromatique de Page de 1874 [http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize⊤=&left=](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize&top=&left=)
 
-[^2]: comme pour l'américaine, l'inspiration relève presque du plagiat, mais on ne s'embarrasse encore guère de propriété intellectuelle à cette époque.
+[^2]: Comme pour l'américaine, l'inspiration relève presque du plagiat, mais on ne s'embarrasse encore guère de propriété intellectuelle à cette époque.
