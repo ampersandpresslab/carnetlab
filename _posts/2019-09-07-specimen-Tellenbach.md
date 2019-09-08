@@ -147,6 +147,7 @@ Je n'ai pu repérer qu'un autre exemplaire de ce spécimen, en Suisse. De même,
 - DEBERNY & Cie, _Le Livret typographique. Spécimen de caractères_, Deberny & cie.,1912
 - PAGE & CO _Specimens of chromatic wood type, borders, etc. manufactured by Wm. H. Page & Co._ Greeneville, Conn. : The Co., 1874\. [Version numérique](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize&top=&left=)
 - KELLY (Rob Roy), _American Wood Type, 1828-1900: Notes on the Evolution of Decorated and Large Types_.
-- [^1]: KELLY (Rob Roy), _American Wood Type, 1828-1900: Notes on the Evolution of Decorated and Large Types_. p. 138\. Un exemple ici dans le superbe catalogue chromatique de Page de 1874 [http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize⊤=&left=](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize&top=&left=)
 
 [^2]: Comme pour l'américaine, l'inspiration relève presque du plagiat, mais on ne s'embarrasse encore guère de propriété intellectuelle à cette époque.
+
+[^1]: KELLY "Rob Roy), _American Wood Type, 1828-1900: Notes on the Evolution of Decorated and Large Types_. p. 138\. Un exemple ici dans le superbe catalogue chromatique de Page de 1874 [http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize⊤=&left=](http://www.columbia.edu/cu/lweb/digital/collections/cul/texts/ldpd_10147342_000/pages/ldpd_10147342_000_00000031.html?toggle=image&menu=maximize&top=&left="
