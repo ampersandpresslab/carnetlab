@@ -6,7 +6,7 @@ date: 2019-08-30T00:00:00.000Z
 header:
   image: assets/images/SpecimenFTF/Specimen_FTF_0015.jpg
   teaser: assets/images/SpecimenFTF/Specimen_FTF_0015.jpg
-  caption: 'Page de titre, détail'
+  caption: 'Les filets, détail'
 excerpt: >-
   Catalogue des caractères d'affiches en bois, des vignettes et galvanos de la
   ** Fonderie Typographique Française ** dans les années 20.
