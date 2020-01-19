@@ -69,6 +69,8 @@ Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, an
 
 Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le moment impossible d'identifier le prénom derrière ce "E.". Un Baptiste Ploquin était recensé comme fabricant de caractères en bois en 1881.
 
+Un spécimen paru vers 1883 est [disponible en ligne](http://bit.ly/2k58FoV), il appartient aux collections de la bibliothèque d'Harvard.
+
 ## Marque de Audebaud, Bressuire
 
 <figure>
@@ -79,8 +81,6 @@ Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le momen
 </figure>
 
 Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent de E. Ploquin.
-
-Un spécimen paru vers 1883 est [numérisé à Harvard](http://bit.ly/2k58FoV).
 
 ## Marque de Henri Dureau, Bressuire
 
