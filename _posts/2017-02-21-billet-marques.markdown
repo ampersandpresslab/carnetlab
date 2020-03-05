@@ -35,7 +35,7 @@ Les caractères bois de grande taille, souvent appelés caractères d'affiches, 
 
 Cette pratique n'est pourtant pas systématique, certains ne marquent pas du tout leurs caractères (les caractères de **Deberny et Peignot** ne le sont jamais, comme beaucoup d'autres produits par des grandes fonderies au XXe siècle).
 
-La marque peut se trouver sur tous les caractères, c'est souvent l'usage en France, elle est frappée à l'aide d'un poinçon, sur le coté ou le dessous du caractère, parfois comme chez le suisse A. Martin, elle ne se retrouve que sur les caractères W, X, et Y, chez les anglo-saxons l'usage est de n'estampiller que les A.
+La marque peut se trouver sur tous les caractères, c'est souvent l'usage en France, elle est frappée à l'aide d'un poinçon, sur le coté ou le dessous du caractère, parfois comme chez le suisse Ate Martin, elle ne se retrouve que sur les caractères W, X, et Y, chez les anglo-saxons l'usage est de n'estampiller que les A.
 
 La pratique française à l'avantage de permettre l'identification à partir d'une police même incomplète. Les spécimens n'ayant pas tous pu arriver jusqu'à nous, ces marques atteste aujourd'hui l'existence de manufactures qui resteraient ignorées sans elles.
 
@@ -115,7 +115,7 @@ Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau
   <figcaption>Marque L. Saison.</figcaption>
 </figure>
 
-Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860, fournisseur pour Renault & Robcis à Paris.
+Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860, fournisseur pour Renault & Robcis à Paris, puis déposant chez Peignot en 1878.
 
 ### Marque T. Boré
 
@@ -130,7 +130,7 @@ Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre
 
 ## Les manufactures en Suisse
 
-### Marque de A. Martin.
+### Marque de Ate Martin
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-A-Martin.jpg">
@@ -141,22 +141,25 @@ Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre
 
 La manufacture Auguste Martin est installée à Ardon, en Suisse. Fondée vers 1875, elle est mise en liquidation en 1969.
 
-### Marque des Usines Gutenberg,
+### Marque de Charles Bonnet
+
+<figure>
+  <a href="{{ site.baseurl }}/assets/images/Bonnet-marque.jpg">
+  <img src="{{ site.baseurl }}/assets/images/Bonnet-marque.jpg">
+</a>
+  <figcaption>Marque Bonnet.</figcaption>
+</figure>
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/Marque-Gutenberg.jpg">
   <img src="{{ site.baseurl }}/assets/images/Marque-Gutenberg.jpg">
 </a>
-  <figcaption>Marque Usines Gutenberg.</figcaption>
+  <figcaption>Marque Usines Gutenberg, à partir de 1882.</figcaption>
 </figure>
 
-Genève Usines Gutenberg, à Genève (Suisse). Fin dix-neuvième siècle, a possédé des succursales (ou la maison mère ?) à Paris, sous la marque de société Ch. Bonnet et cie (un acte notarié de 82 en fait mention sous le nom Ch. Bonnet & cie, Chevalier et Dreyfus, dite "Usines Gutenberg").
+Charles Bonnet, à Genève (Suisse). Fin dix-neuvième siècle, a possédé des succursales à Paris dès 1875, sous la marque de société Ch. Bonnet et cie (un acte notarié de 82 en fait mention sous le nom Ch. Bonnet & cie, Chevalier et Dreyfus, dite "Usines Gutenberg").
 
 ## Les manufactures aux États-Unis
-
-### Marque Page & Co
-
-Manufacture Page & Co, Greenville (Connecticut USA). Marque utilisée entre 1857 et 1859.
 
 ### Marque Page & Co
 
@@ -167,7 +170,7 @@ Manufacture Page & Co, Greenville (Connecticut USA). Marque utilisée entre 1857
   <figcaption>Marque Page &amp; Co.</figcaption>
 </figure>
 
-Manufacture Page & Co, Greenville (Connecticut USA) Marque et caractère réalisés par emboutissage, procédé breveté, caractère daté de 1887.
+Manufacture Page & Co, Greenville (Connecticut USA). Marque et caractère réalisés par emboutissage, procédé breveté, caractère daté de 1887.
 
 ### Marque de Hamilton Two Rivers (USA)
 
@@ -221,8 +224,9 @@ Manufacture Day & Collins.
 
 **J'accèpte bien sûr les dons ;)**
 
-# Bibliographie
+# Bibliographie et sources
 
 Magistrale histoire des caractères bois aux États-Unis.
 
 - KELLY (Rob Roy), _American wood type 1828-1900 : notes on the evolution of decorated and large types_, Liber Apertus Press, 2010 (reprint de l'édition originale de 1964).
+- Dans la continuité de Kelly, les recherches de [David Shields](http://www.woodtyperesearch.com/).
