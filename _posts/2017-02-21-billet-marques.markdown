@@ -58,7 +58,7 @@ Voici les estampilles relevées sur des caractères de ma collection (polices co
   <figcaption>Marque de Chabauty.</figcaption>
 </figure>
 
-Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1857 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
+Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1848 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
 
 ### Marque Ploquin, Bressuire
 
@@ -115,7 +115,7 @@ Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau
   <figcaption>Marque L. Saison.</figcaption>
 </figure>
 
-Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860, fournisseur pour Renault & Robcis à Paris, puis déposant chez Peignot en 1878.
+Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860 (et probablement depuis 1854), fournisseur pour Renault & Robcis à Paris, puis déposant chez Peignot en 1878\. Cet ancien ouvrier de Delamarre à Bressuire aurait un temps repris sa fabrique avant d'être expulsé de la ville (suite au coup d'État de Louis-Napoléon Bonaparte, en raison de ses accointances socialistes) et d'y fonder sa propre manufacture.
 
 ### Marque T. Boré
 

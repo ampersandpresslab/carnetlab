@@ -33,7 +33,7 @@ Le sous-titre du spécimen annonce "Atelier de gravure sur bois" sans plus de pr
 
 On serait donc en présence (supposition non fondée...) dans cette ville à des "reconversions" opportunes dans une industrie naissante en France.<br>
 Il est aussi intéressant de noter que dans cette région on exploitait le bois de cormier (un poirier), d'ailleurs une publicité de **Ploquin** indique qu'il exploite lui-même un tel bois.<br>
-La concentration à Bressuire de fabricants s'explique donc peut-être en partie par ces conjonctions : un pionnier (Chabauty), la réussite, les imitateurs et la concurrence (**Ploquin** concurrent de **Audebaud**).
+La concentration à Bressuire de fabricants s'explique donc peut-être en partie par ces conjonctions : un pionnier (Delamarre), la réussite, les imitateurs et la concurrence (**Ploquin** concurrent de **Audebaud**).
 
 # Le specimen de Dugnat
 

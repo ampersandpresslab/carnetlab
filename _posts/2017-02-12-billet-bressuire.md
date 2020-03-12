@@ -45,7 +45,7 @@ Je possède des fontes des fabricants suivants :
   <figcaption>Marque de Chabauty.</figcaption>
 </figure>
 
-Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1857 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
+Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1848 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
 
 ## Marque Ploquin, Bressuire
 
@@ -80,7 +80,7 @@ Un spécimen paru vers 1883 est [disponible en ligne](http://bit.ly/2k58FoV), il
   <figcaption>Marque de Constant Audebaud.</figcaption>
 </figure>
 
-Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent de E. Ploquin.
+Manufacture Constant Audebaud, à Bressuire, fondée en 1877\. Ancien graveur de Moreau (associ de Chabauty), il reprend son affaire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent de E. Ploquin.
 
 ## Marque de Henri Dureau, Bressuire
 
@@ -91,7 +91,7 @@ Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moi
   <figcaption>Marque de Henri Dureau.</figcaption>
 </figure>
 
-Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau puis Dureau-Gillcart en 1896), famille active jusque vers 1960.
+Manufacture Henri Dureau, à Bressuire. Actif à partir de 1896 au moins (Dureau puis Dureau-Gillcart en 1896), famille active jusque vers 1960/70.
 
 # Premières recherches
 
@@ -105,7 +105,7 @@ La première mention que je déniche concerne Audebaud, sur le forum de Briarpre
 
 Bien entendu se pose la question de savoir si il existe des catalogues de spécimens de ces fabricants.
 
-Le Worldcat me donne un résultat pour un spécimen de la maison Audebaud (Constant), deux exemplaires sont signalés, l'un à la BU d'Amsterdam, l'autre à la Columbia Universuty Libraries (je n'ai pas réussi à en avoir une copie numérique pour le moment). Un _Album-spécimens des caractères en bois de E. Ploquin, gendre et successeur de Chabauty-Ploquin, graveur a Bressuire (Deux-Sèvres)_ (le titre est déjà riche d'informations) est localisé à la bibliothèque d'Harvard. J'en trouve aussi trace dans une référence de catalogue de vente publique.
+Le Worldcat me donne un résultat pour un spécimen de la maison Audebaud (Constant), deux exemplaires sont signalés, l'un à la BU d'Amsterdam, l'autre à la Columbia Universuty Libraries (je n'ai pas réussi à en avoir une copie numérique pour le moment). Un _Album-spécimens des caractères en bois de E. Ploquin, gendre et successeur de Chabauty-Ploquin, graveur a Bressuire (Deux-Sèvres)_ (le titre est déjà riche d'informations) est localisé à la bibliothèque d'Harvard (numérisé en 2019). J'en trouve aussi trace dans une référence de catalogue de vente publique.
 
 # Les publicités
 

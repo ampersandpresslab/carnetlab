@@ -76,7 +76,7 @@ J'ai déjà pu recenser une vingtaine de fabricants entre 1855 et 1900, comme l'
 
 C'est dans cette ville des Deux-Sèvres qu'apparaît le premier fabricant français. Et plus étonnant, elle comptera pas moins de trois maisons en concurrence et près de 10 raisons sociales avant 1900\. Pourquoi une telle concentration? Je pars de l'hypothèse d'une conjonction favorable, alors qu'apparaît ce «nouveau marché[^8]». Bressuire est proche du grand port de Nantes, des routes qui mènent à Paris. C'est une région productrice de bois, la ville abrite par conséquent tous les corps de métiers associés. On peut dès lors supposer qu'**Armand Chabauty** (1814-1893), notre premier fabricant, était graveur ou menuisier[^9].
 
-En 1855, il a 40 ans, conscient de la demande et entrepreneur avisé, il lance sa fabrique, travaillant probablement à façon, tout comme Wells, avec un associé susceptible de bien connaître les besoins des imprimeurs, **Louis Moreau**, alors lui-même libraire-imprimeur.
+En 1848, il a 40 ans, conscient de la demande et entrepreneur avisé, il lance sa fabrique, travaillant probablement à façon, tout comme Wells, avec un associé susceptible de bien connaître les besoins des imprimeurs, **Louis Moreau**, alors lui-même libraire-imprimeur.
 
 # Chabauty et Moreau, les précurseurs ?
 
