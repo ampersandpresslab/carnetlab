@@ -58,7 +58,7 @@ Voici les estampilles relevées sur des caractères de ma collection (polices co
   <figcaption>Marque de Chabauty.</figcaption>
 </figure>
 
-Manufacture Chabauty, à Bressuire. Probablement la première génération de fabricants à Bressuire, attesté dès 1848 (Chabauty-Moreau). Ploquin sur ses publicités se présente comme successeur de "Ancienne maison Chabauty-Ploquin, fondée en 1855". Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau.
+Manufacture Chabauty, à Bressuire. Probablement la seconde fabrique à Bressuire, attesté dès 1848\. Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau. En 1855, avant de passer à Ploquin, son gendre, la maison prendra le nom Chabauty-Ploquin, comme l'atteste des publicités dans les années 1881.
 
 ### Marque Ploquin, Bressuire
 
@@ -69,7 +69,7 @@ Manufacture Chabauty, à Bressuire. Probablement la première génération de fa
   <figcaption>Marque de Ploquin.</figcaption>
 </figure>
 
-Manufacture Ploquin, à Bressuire. Une des premières fabriques de Bressuire, antérieure à E. Ploquin. Il peut s'agir de la marque liée à la raison sociale Ploquin-Chabauty (quand le gendre de Armand Chabauty prend la main, vers 1866).
+Manufacture Ploquin, à Bressuire. Antérieure à E. Ploquin. Il peut s'agir de la marque liée à la raison sociale Ploquin-Chabauty (quand le gendre de Armand Chabauty prend la main, vers 1866).
 
 ### Marque de E. Ploquin, Bressuire
 
