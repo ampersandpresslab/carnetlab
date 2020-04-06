@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Le premier fabricant de caractères en bois à Bressuire.
+title: Le premier fabricant de caractères en bois de Bressuire.
 date: '2020-03-10'
 permalink: 'carnet/:title'
 excerpt: >-
