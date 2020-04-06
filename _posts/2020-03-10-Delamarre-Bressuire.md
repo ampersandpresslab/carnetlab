@@ -12,7 +12,7 @@ header:
     Lettre du 14 septembre 1852, calomniant Delamarre, elle fait mention de son
     activité de fabricant de lettres (Archives nationales
     FRAD079_4M_000183_0021)
-  teaser: assets/images/Paullet-19c.jpg
+  teaser: assets/images/delamarre/FRAD079_4M_000183_0021 copie.jpg
 sidebar:
   nav: side
 categories:
