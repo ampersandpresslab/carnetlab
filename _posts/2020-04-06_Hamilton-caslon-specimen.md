@@ -8,8 +8,8 @@ header:
   teaser: assets/images/hamilton/Hamilton_det_0006.jpg
   caption: Détail
 excerpt: >-
-  Catalogue des caractères en bois de la manufacture suisse Tellenbach de
-  Buttes.
+  Catalogue des caractères en bois de la manufacture Hamilton paru en 1900 pour
+  le marché français
 sidebar:
   - title: Titre
     text: 'Caractères en bois [Hamilton]. H.W. Caslon'
