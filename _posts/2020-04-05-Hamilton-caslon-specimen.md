@@ -2,7 +2,7 @@
 layout: single
 title: Spécimen des caractères Hamilton pour le marché français.
 permalink: 'carnet/:title'
-date: 2020-04-06T00:00:00.000Z
+date: '2020-04-05'
 header:
   image: assets/images/hamilton/Hamilton_det_0006.jpg
   teaser: assets/images/hamilton/Hamilton_det_0006.jpg
@@ -16,7 +16,7 @@ sidebar:
   - title: Éditeur
     text: 'Paris : H.W. Caslon'
   - title: Date
-    text: 1900
+    text: '1900'
   - title: Format
     text: '37 X 26 cm, 110 feuillets'
 tags:
