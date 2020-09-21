@@ -70,7 +70,7 @@ On suppose d'abord un usage à façon[^3]: l'imprimeur faisait tailler par un me
 
 # Les fabricants français
 
-J'ai déjà pu recenser une vingtaine de fabricants entre 1855 et 1900, comme l'attestent spécimens, publicités ou caractère à leur marque[^6]. Il est à noter que l'usage de la marque ne perdurera guère au tournant du siècle, où la production sera prise en charge par les fonderies. Seuls quelques fabricants spécialisés semblent continuer cette pratique (**Dureau** ou **Martin** pour la Suisse). Hors Paris, cinq villes attestent de la présence d'un fabricant spécialisé: Argenton-sur-Creuse (**L. Sainson**), La Roche-sur-Yon (**T.F. Boré**, vers 1870), Nantes (**Charpentier**, au sein de l'imprimerie du même nom, vers 1862 ou avant), Grenoble (**Jacoby**), et surtout Bressuire[^7].
+J'ai déjà pu recenser une vingtaine de fabricants entre 1855 et 1900, comme l'attestent spécimens, publicités ou caractères à leur marque[^6]. Il est à noter que l'usage de la marque ne perdurera guère au tournant du siècle, où la production sera prise en charge par les fonderies. Seuls quelques fabricants spécialisés semblent continuer cette pratique (**Dureau** ou **Martin** pour la Suisse). Hors Paris, cinq villes attestent de la présence d'un fabricant spécialisé: Argenton-sur-Creuse (**L. Sainson**), La Roche-sur-Yon (**T.F. Boré**, vers 1870), Nantes (**Charpentier**, au sein de l'imprimerie du même nom, vers 1862 ou avant), Grenoble (**Jacoby**), et surtout Bressuire[^7].
 
 # Le «cas» Bressuire
 
@@ -80,7 +80,7 @@ En 1848, il a 40 ans, conscient de la demande et entrepreneur avisé, il lance s
 
 # Chabauty et Moreau, les précurseurs ?
 
-**Chabauty** s'associa donc à **Moreau** (1821-?), et ce pendant 11 années. Entre 1866 et 1890 (?), la maison prend le nom de **Chabauty-Ploquin**, puis **Ploquin-Chabauty**, **Ploquin**, et enfin **E. Ploquln**. Moreau, de son côté, semble avoir continué seul jusque vers 1875, où lui succède **Constant Audebaud** (1836.-?). Ces deux branches, **E. Ploquin** et **Audebaud**, vont se concurrencer entre 1880 et 1890.
+**Chabauty** s'associa donc à **Moreau** (1821-?), et ce pendant 11 années. Entre 1866 et 1890 (?), la maison prend le nom de **Chabauty-Ploquin**, puis **Ploquin-Chabauty**, **Ploquin**, et enfin **E. Ploquin**. Moreau, de son côté, semble avoir continué seul jusque vers 1875, où lui succède **Constant Audebaud** (1836.-?). Ces deux branches, **E. Ploquin** et **Audebaud**, vont se concurrencer entre 1880 et 1890.
 
 Vers 1875 naît une maison **Geffard et Dugnat**. Puis dans les années 1893-1896 arrive l'entreprise de **Henri Dureau** (truste-t-il ses aînés ?), qui résistera jusque vers 1965[^10], concurrencée par **E. Chauvin** (1900?-1936?). Sans avoir à plus entrer dans le détail de cet écheveau, on en tire une conclusion évidente : la demande est telle qu'anciens associés ou ouvriers ont résolu de se lancer. Paris et quelques villes de province abritent des fabricants dès 1860 environ.
 
@@ -126,9 +126,9 @@ Aujourd'hui, le mérite d'un musée comme celui de Nantes, et cette exposition l
 
 [^8]: Nul doute que les productions américaines sont connues, mais le besoin ne se fait sentir que dans la deuxième partie du siècle en France.
 
-[^9]: Des Chabauty sont menuisiers à Bressuire, et une branche de la famille est dans le commerce du bois, de même que la famille de son épouse Thérèse Ploquin.
+[^9]: Des Chabauty sont menuisiers à Bressuire, et une branche de la famille est dans le commerce du bois, de même que la famille de son épouse Thérèse Ploquin. Je peux aujourd'hui affirmer que le premier fabricant de Bressuire ne fût pas Chabauty, mais Félix Delamarre, [voir ici](http://www.ericnunes-carnet.fr/carnet/Delamarre-Bressuire)
 
-[^10]: Le dernier descendant qui exerçait encore vers 1965, Henri Dureau, est mort en 2014\. En 2017, sa maison contenait encore une scie à bois.
+[^10]: Le dernier descendant qui exerçait encore vers 1965, Henri Dureau, est mort en 2014\. En 2017, sa maison contenait encore plusieurs scies circulaires pour la découpe des caractères.
 
 [^11]: « Darius Wells of New York City, who finally found the means for mass producing wood letters in 1827, published the first known wood type catalogue in March, 1828\. Wells introduced a basic invention, the lateral router, which in combination with the pantograph added by George Leavenworth in 1834, constituted the essential machinery for making end-cut wood types.» in KELLY (Rob Roy), op. cit., p. 33.
 

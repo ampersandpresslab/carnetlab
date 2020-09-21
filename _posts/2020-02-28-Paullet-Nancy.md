@@ -27,7 +27,7 @@ toc_icon: list
 
 François, Joseph, Adrien Paullet est imprimeur à Nancy, il exerce entre 1830 et 1843\. D'après [la base](http://elec.enc.sorbonne.fr/imprimeurs/node/25754) des imprimeurs de l'École des Chartes, il est né en 1800 à Nancy, d'un père médecin. En 1830 il reprend l'imprimerie de Jean-Baptiste Raimond (1806-1830 ?), passage du Casino (rue des Dominicains) à Nancy, en 1829 il demande sans succès un brevet de lithographe, il semble l'obtenir rapidement puisqu'il édite ses premières lithographies dès 1832\. Il obtient un brevet d'imprimeur en lettres en 1834, puis de libraire en 1839.
 
-Dès 1835 il est amené, en tant qu'imprimeur de la mairie et de la cour royale puis de la préfecture, à imprimer de nombreux placards. Le 5 janvier 1843, un incendie fait quelques dégâts dans son atelier [^1]. En février de la même année, il se retire, c'est Louis Félix Christophe (1843-1874) qui reprend son activité.
+Dès 1835 il est amené, en tant qu'imprimeur de la mairie et de la cour royale puis de la préfecture, à imprimer de nombreux placards. Le 5 janvier 1843, un incendie fait quelques dégâts dans son atelier [^1]. En février de la même année, il se retire, durant 2 ans on trouve la mention sur des placards d'un certain J. Troup, donné comme successeur (on peut supposer qu'il s'agit d'un ouvrier de Paullet), mais c'est Louis Félix Christophe (1843-1874) qui reprend officiellement son activité.
 
 # Que sait-on de ses activités de fabricant ?
 
@@ -62,7 +62,7 @@ Si Paullet a marqué ses productions, et si l'article prend la peine de signaler
 J'ai trouvé 3 fontes fabriquées par Paullet :
 
 - une égyptienne extra-large de 19 c. (manque le H et le V) ;
-- une "grecque", égyptienne aux angles biseautés (selon la typologie anglo-saxonne) de 15 c. (manque les X, V, W et Z) ;
+- une égyptienne "octogonale", égyptienne aux angles biseautés (selon la typologie anglo-saxonne) de 15 c. (manque les X, V, W et Z) ;
 - et seulement 6 lettres d'une autre égyptienne.
 
 La première remarque à faire quant à leur mode de fabrication est qu'elles sont taillées à la main dans le fil du bois (l'usage du bois de bout est quasi absent des productions françaises). Je ne suis pas en mesure d'identifier le bois utilisé, pour deux de ces fontes il est resté très dense, il doit s'agir de poirier ou de cormier, voire de noyer. La dernière fonte, la plus incomplète, est aussi celle qui a le plus mal vieilli, le bois est fendillé et les cernes de croissance ont beaucoup travaillées.
@@ -71,7 +71,7 @@ La première remarque à faire quant à leur mode de fabrication est qu'elles so
   <a href="{{ site.baseurl }}/assets/images/Paullet-Grecque-14c-001.jpg">
   <img src="{{ site.baseurl }}/assets/images/Paullet-Grecque-14c-001.jpg">
 </a>
-  <figcaption>Grecque de A.F. Paullet. Chaque lettre est marquée</figcaption>
+  <figcaption>Caractère "octogonal" de A.F. Paullet. Chaque lettre est marquée</figcaption>
 </figure>
 
 <figure>
@@ -83,9 +83,16 @@ La première remarque à faire quant à leur mode de fabrication est qu'elles so
 
 Comme les images ci-dessus le montrent, le travail est entièrement réalisé à la main, pour le contour de la lettre comme pour l'échoppage. Le talus de la lettre est très profond, entre 3 et 5 mm, et la taille de la lettre est perpendiculaire à l'œil. La trace des outils est bien nette, celle du couteau qui dégage les contours, et celles de deux ou trois tailles d'échoppe. On distingue rapidement un manque de régularité dans le tracé des lettres identiques. Si un patron a été utilisé, le graveur n'était pas très précis... Il nous faudrait un échantillon bien plus large pour évaluer la qualité des caractères de Paullet, peut-être est-on ici en présence de ces premiers bois ? On est loin, bien qu'à la même date, de la qualité revendiquée par Nesbitt, qui faisait du caractère mécanique de son procédé de fabrication un argument de vente [^4] . Mais les échelles de production ne sont certainement pas comparables.
 
-Espérons que d'autres caractères estampillés par Paullet refassent surface et nous apportent d'autres éléments d'analyse.
+Espérons que d'autres caractères estampillés par Paullet refassent surface et nous apportent de nouveaux éléments d'analyse.
 
-# Un mot sur ce "cliché mécanique" évoqué dans l'article ?
+<figure>
+  <a href="{{ site.baseurl }}/assets/images/Paullet_1842_14FI-3092-det.jpg">
+  <img src="{{ site.baseurl }}/assets/images/Paullet_1842_14FI-3092-det.jpg">
+</a>
+  <figcaption>Détail d'une affiche de 1842 imprimée par Paullet (Archives Municipales de Nancy, 14FI-3092)</figcaption>
+</figure>
+
+# Un mot sur ce "cliché mécanique" évoqué dans l'article
 
 Revenons à l'article des _Annales_ :
 
@@ -127,4 +134,4 @@ Mais quel est exactement ce "moyen aussi ingénieux qu'économique, [qui va] sub
 
 [^3]: Les caractères présentés étaient en usage il y a une trentaine d'année dans une imprimerie de Haute-Marne, on peut donc en supposer (hypothèse hasardeuse sur un si petit échantillon, j'en conviens) une diffusion réduite et essentiellement locale.
 
-[^4]: Rappelons que le premier spécimen connu de caractères en bois est paru chez Nesbitt en 1838 aux États Unis, déjà, il mentionnait au titre que ses caractères étaient taillé à l'aide d'une machine, en sous-entendant ainsi la qualité. Voir à ce sujet [l'article de David Shields](http://www.woodtyperesearch.com/george-nesbitt/).
+[^4]: Rappelons que le premier spécimen connu de caractères en bois est paru chez Nesbitt en 1838 aux États Unis, déjà, il mentionnait au titre que ses caractères étaient taillés à l'aide d'une machine, en sous-entendant ainsi la qualité. Voir à ce sujet [l'article de David Shields](http://woodtyperesearch.com/george-nesbitt/).
