@@ -61,7 +61,7 @@ gallery:
     alt: placeholder image 10
 ---
 
-Ce catalogue présente les caractères d'affiches en bois, des ornements ainsi que des galvanos, proposés dans les années 20 par la **Fonderie Typographique Française**.
+Ce catalogue présente les caractères d'affiches en bois, des ornements ainsi que des galvanos, proposés dans les années 20 par la **Fonderie Typographique Française**, mais fabriqués par le suisse Auguste Martin.
 
 # La Fonderie Typographique Française.
 
