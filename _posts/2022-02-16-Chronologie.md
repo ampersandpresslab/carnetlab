@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Chronologie des fabricants français de caractères en bois.
-date: '2022-02-16'
+date: '2022-03-11'
 permalink: 'carnet/:title'
 excerpt: >-
   Cette chronologie reflète l'état actuel de mes recherches, elle est donc
@@ -23,6 +23,13 @@ toc_icon: list
 
 Cette chronologie reflète l'état actuel de mes recherches, elle est donc susceptible de s'amender au fil de celles-ci. Je n'y donne volontairement que des éléments concis : les raisons sociales, les dates d'exercice et la ville d'activité du fabricant.
 
+# Chronologie
+
+<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hevchUmvgX2AP9kyvOzW3TXL6KhJTPs4HNHmgEfMEbg&amp;font=Fjalla-Average&amp;lang=fr&amp;initial_zoom=5&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0">
+</iframe>
+
+[En plein écran](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hevchUmvgX2AP9kyvOzW3TXL6KhJTPs4HNHmgEfMEbg&font=Default&lang=fr&initial_zoom=1&height=650)
+
 # Méthodologie
 
 Les fabricants cités sont tous attestés : parfois uniquement par un caractère estampillé à leur nom (le cas de Leroux à Lyon par exemple), par une entrée dans un annuaire stipulant leur statut de fabricant, par un article les mentionnant, ou par une publicité dans une revue professionnelle.
@@ -36,11 +43,6 @@ Dans le cas des noms uniquement cités dans des annuaires, je ne cite que ceux d
 # Couverture géographique de la recherche
 
 Je m'intéresse aux fabricants français, et plus largement j'en viens aux francophones (je n'ai pas encore abordé la Belgique). Les grands fabricants du XIXe vendaient à l'internationale, mais les échanges entre pays francophones doivent être supposés plus courants, ainsi le cadre de cette étude se doit de ne pas se limiter à des frontières administratives. Dans trois cas ici, le fabricant est en Suisse. Pour le cas de Delaloye, c'est cette règle qui prévaut, pour ce qui est de Martin et de Bonnet, d'une part, ils sont situés dans des cantons francophones, mais qui plus est, il s'agit de ressortissants français[^3].
-
-# Chronologie
-
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1hevchUmvgX2AP9kyvOzW3TXL6KhJTPs4HNHmgEfMEbg&amp;font=Fjalla-Average&amp;lang=fr&amp;initial_zoom=5&amp;height=650" width="100%" height="650" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0">
-</iframe>
 
 ## Notes
 
