@@ -7,9 +7,9 @@ excerpt: >-
   Cette chronologie reflète l'état actuel de mes recherches, elle est donc
   susceptible de s'amender au fil de celles-ci
 header:
-  image: assets/images/Marque-Ploquin-01.jpg
-  caption: Marque de Ploquin
-  teaser: assets/images/Marque-Ploquin-01.jpg
+  image: assets/images/chrono.png
+  caption: Capture d'écran
+  teaser: assets/images/chrono.png
 sidebar:
   nav: side
 categories:
