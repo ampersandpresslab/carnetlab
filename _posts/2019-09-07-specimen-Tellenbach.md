@@ -8,9 +8,9 @@ header:
   teaser: assets/images/tellenbach/Specimen-Tellenbach_0003det.jpg
   caption: 'Page de titre, détail'
 excerpt: >-
-  Catalogue des caractères en bois de la manufacture suisse Tellenbach de
-  Buttes, qui s'avèrent avoir été gravés par le grenoblois Jacoby. Article mis à
-  jour (mars 2022)
+  Catalogue des caractères en bois de la manufacture suisse Tellenbach, qui
+  s'avèrent avoir été gravés par le grenoblois Jacoby. Article mis à jour (mars
+  2022)
 sidebar:
   - title: Titre
     text: 'Manufacture des caractères en bois Tellenbach & cie, Buttes'
@@ -95,7 +95,7 @@ Au début du siècle la Suisse compte encore deux très grandes manufactures, ce
 
 # Le spécimen de 1911, des caractères de Jacoby...
 
-Le spécimen, de très belle facture, en deux couleurs et à la marque Tellenbach au verso de chaque page, compte 106 feuillets. Pour une manufacture d'à peine un an, ce catalogue étonne, par sa facture comme par son contenu. Il ne semble pas que Tellenbach ait repris un fonds existant, ce qui expliquerait la richesse du spécimen. Et pour cause, en réalité il propose des caractères d'une autre fabrique, celle de A. Jacoby Fils de Grenoble[^1].
+Le spécimen, de très belle facture, en deux couleurs et à la marque Tellenbach au verso de chaque page, compte 106 feuillets. Pour une manufacture d'à peine un an, ce catalogue étonne, par sa facture comme par son contenu. Tellenbach aurait repris un fonds existant, ce qui pourrai expliquer la richesse du spécimen ? En réalité, plus simplement, il propose sous son nom des caractères d'un autre fabricant, "A. Jacoby Fils" de Grenoble[^1].
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/tellenbach/A-Jacoby-etiquette.png">
@@ -118,7 +118,7 @@ Le spécimen, de très belle facture, en deux couleurs et à la marque Tellenbac
   <figcaption>À gauche page du spécimen Jacoby, à droite "même" page dans celui de lTellenbach</figcaption>
 </figure>
 
-En faisant l'acquisition de la documentation du fabricant Georges Morel, successeur de Jacoby à Grenoble et dernier fabricant français (actif jusqu'en 1982), je suis entré en possession de ce spécimen mais également de divers spécimens de Jacoby, dont un porte l'étiquette "A. Jacoby Fils". Il présente dans un format A4, la plupart des séries montrées dans le spécimen Tellenbach, les mêmes mots y sont imprimés et surtout les mêmes numéros de séries sont utilisés. Ce n'est pas un hasard que ce catalogue se soit transmis dans ce fonds.
+C'est en faisant l'acquisition de la documentation du fabricant Georges Morel, successeur de Jacoby à Grenoble et dernier fabricant français (actif jusqu'en 1982), que je suis entré en possession de ce spécimen mais également de divers spécimens de Jacoby, dont un porte l'étiquette "A. Jacoby Fils". Et ce dernier présente, dans un format A4, la plupart des séries montrées dans le spécimen Tellenbach, les mêmes mots y sont imprimés et surtout les mêmes numéros de séries sont utilisés. Ce n'est pas un hasard que ce catalogue se soit transmis dans ce fonds.
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/tellenbach/Jacoby-Tellenbach00006.jpg">
@@ -134,7 +134,7 @@ En faisant l'acquisition de la documentation du fabricant Georges Morel, success
   <figcaption>À gauche page du spécimen Jacoby, à droite "même" page dans celui de Tellenbach</figcaption>
 </figure>
 
-Quant à la raison de cet emprunt, rappelons que quelques années plus tard, on verra également l'exemple de la Fonderie Typographique Française commercialisant sous son nom des caractères du suisse Martin ([voir ici](http://www.ericnunes-carnet.fr/carnet/specimen-ftf-bois)). Dutreix le fera également avec des caractères du même Jacoby.
+Il ne peut s'agir d'un "simple" plagiat (on aurait utilisé des mots et des numéros différents), alors quelle est la raison de cet emprunt ? Rappelons que quelques années plus tard, on verra également l'exemple de la Fonderie Typographique Française commercialisant sous son nom des caractères du suisse Martin ([voir ici](http://www.ericnunes-carnet.fr/carnet/specimen-ftf-bois)). Dutreix le fera également avec des caractères du même Jacoby.
 
 Pour ce cas présent, on doit supposer une volonté d'une part de Tellenbach de s'ouvrir un nouveau marché (mais on la dit, sur un créneau peut être déjà bouché par la concurrence), et d'autre part, comme par un échange de bon procédé, un moyen pour Jacoby d'écouler une partie de sa production sur le marché suisse (on se souviendra la maison Jacoby et Cie est fondée en le 15 février 1891, en association avec Jean-Ignace Delaloye-Vachoud à Sion en Suisse, mais installée à Grenoble.). Les éléments nous manquent pour aller plus loin dans cette analyse.
 
