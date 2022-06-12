@@ -13,7 +13,7 @@ locale                   : "fr-FR"
 title                    : "Carnet du lab"
 title_separator          : "-"
 name                     : "Éric Nunes"
-description              : "Ce carnet rassemble mes recherches en cours sur l’histoire de l’imprimerie, en particulier sur les manufactures françaises de caractères typographiques en bois et des réflexions autour des activités de l’atelier."
+description              : "Ce carnet rassemble mes recherches en cours sur l’histoire de l’imprimerie, en particulier sur les manufactures francophones de caractères typographiques en bois et des réflexions autour des activités de l’atelier."
 url                      : "https://ampersandpresslab.github.io/carnetlab" # "http://localhost:4000/ampersandpresslab" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"/carnetlab" # the subpath of your site, e.g. "/blog"
 repository               : "ampersandpresslab/carnetlab"
@@ -93,7 +93,7 @@ author:
   name             : "Éric Nunes"
   avatar           : "/assets/images/expeditive.png"
   bio              : "Carnet de recherches d'un imprimeur et typographe amateur (de profession, bibliothécaire spécialisé dans l'histoire du livre et dans la numérisation patrimoniale)."
-  location         : "Dieulouard, France"
+  location         : "Pont-à-Mousson, France"
   email            : ampersandpresslab@gmail.com
   uri              : https://ampersandpresslab.fr/
   home             : # null (default), "absolute or relative url to link to author home"
@@ -107,7 +107,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : ampersanden
+  instagram        : ampersandpresslab
   lastfm           :
   linkedin         :
   pinterest        : ampersanden
