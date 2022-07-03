@@ -120,11 +120,11 @@ La nomenclature est la même, les caractères sont présentés sous 10 classes (
   <figcaption>Détail de la nomenclature.</figcaption>
 </figure>
 
-La notice de la _Typologie-Tucker_ vante ce qui fait la particularité des caractères Hamilton; les petits et moyens corps sont réalisés en bois debout (c'est le bois de fil qui est très majoritairement en usage en France), dans de l'alisier, les grands corps sur bois de fil dans de l'érable. Rien n'est dit par contre sur la présence ou non d'un stock à Paris, on peut aisément supposer -- sauf peut-être pour quelques corps et dessins d'usage courant -- que les caractères étaient envoyés du Wisconsin sur commande. Les lettres sont bien entendu proposées en hauteur française et point didot.
+La notice de la _Typologie-Tucker_ vante ce qui fait la particularité des caractères **Hamilton**; les petits et moyens corps sont réalisés en bois debout (c'est le bois de fil qui est très majoritairement en usage en France), dans de l'alisier (équivalent du cormier ou du poirier, utilisés en France), les grands corps sur bois de fil dans de l'érable. Rien n'est dit par contre sur la présence ou non d'un stock à Paris, on peut aisément supposer -- sauf peut-être pour quelques corps et dessins d'usage courant -- que les caractères étaient envoyés du Wisconsin sur commande. Les lettres sont bien entendu proposées en hauteur française et point didot.
 
 # La réalisation
 
-Ce catalogue est totalement en français. Il a donc bien été imprimé à dessein, pour la firme Calson. Comme on l'a indiqué plus haut, ce spécimen paraît au même moment que l'édition américaine. Au-delà de la simple comparaison des caractères qu'il contient, sa mise en forme peut nous apprendre dans quel contexte il a pu être composé et imprimé.
+Ce catalogue est totalement en français. Il a donc bien été imprimé à dessein, pour la firme **Calson**. Comme on l'a indiqué plus haut, ce spécimen paraît au même moment que l'édition américaine. Au-delà de la simple comparaison des caractères qu'il contient, sa mise en forme peut nous apprendre dans quel contexte il a pu être composé et imprimé.
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/hamilton/comp_Hamilton-Caslon.jpg">
@@ -144,7 +144,7 @@ Comme le montrent l'exemple ci-dessus et le suivant, tout porte à croire que le
 
 # Contexte et réception
 
-Après avoir pris le pas sur la concurrence aux États-Unis (en 1900 la firme est la plus importante du pays, et a absorbé ses principaux concurrents), la Hamilton Mfg Co veut s'ouvrir un marché sur le vieux continent. Après une première prise de contact du directeur du bureau de New York de la Hamilton Mfg Co, Henry L. Bullen, en 1896, avec la maison mère Caslon à Londres, Hamilton passe une convention commerciale avec Caslon Paris en janvier 1898 [^2]. Caslon Paris se trouve être le distributeur exclusif de tout le catalogue des caractères en bois mais aussi du matériel fabriqué aux États-Unis, pour la France et la Belgique [^3].
+Après avoir pris le pas sur la concurrence aux États-Unis (en 1900 la firme est la plus importante du pays, et a absorbé ses principaux concurrents), la Hamilton Mfg Co veut s'ouvrir un marché sur le vieux continent. Après une première prise de contact du directeur du bureau de New York de la Hamilton Mfg Co, Henry L. Bullen, en 1896, avec la maison mère Caslon à Londres, Hamilton passe une convention commerciale avec Caslon Paris en janvier 1898[^2]. Caslon Paris se trouve être le distributeur exclusif de tout le catalogue des caractères en bois mais aussi du matériel fabriqué aux États-Unis, pour la France et la Belgique[^3].
 
 <figure>
   <a href="{{ site.baseurl }}/assets/images/hamilton/Hamilton_det_0019.jpg">
@@ -176,6 +176,6 @@ Pour autant, il ne me paraît pas évident que le public visé ait adhéré. D'u
 
 [^1]: [article de Typologie-Tucker de mars 1900](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0001832899/1900/n351/v0001.simple.selectedTab=search.highlight=bois) recension du catalogue
 
-[^2]: Information fournie par David Shields.
+[^2]: Information fournie par David Shields.
 
-[^3]: voir à ce sujet [l'article](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0001832899/1898/n331/v0001.simple.selectedTab=search.highlight=bois) paru en 1898 dans le numéro 331 de _La Typologie Tucker & circulaire Cason_,
+[^3]: voir à ce sujet [l'article](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0001832899/1898/n331/v0001.simple.selectedTab=search.highlight=bois) paru en 1898 dans le numéro 331 de _La Typologie Tucker & circulaire Cason_,
