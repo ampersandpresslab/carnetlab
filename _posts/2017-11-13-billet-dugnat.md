@@ -43,7 +43,7 @@ Guillaume Dugnat (1837-1902) est né à Brousse dans le Puy-de-Dôme de Antoine 
 
 # Quand ?
 
-Au vu de son contenu, on peut être effectivement tenté de le dater des années 1850, mais pour le moment Dugnat n'apparaît dans les source qu'en 1868, cité comme fournisseur en caractères bois de la Fonderie Boildieu ([L'imprimerie, journal de la typographie](https://gallica.bnf.fr/ark:/12148/bpt6k3295697g/f11.item.zoom#) ). Il est associé à Geffard entre 75 et 78 (Geffard et Dugnat (orthographié Dunias) apparaît dans l'_Annuaire du commerce_ en 1875). J'inclinerai donc pour une période d'exercice entre 1868-1878.
+Au vu de son contenu, on peut être effectivement tenté de le dater des années 1850, mais pour le moment Dugnat n'apparaît dans les sources qu'en 1868, cité comme fournisseur en caractères bois de la Fonderie Boildieu ([L'imprimerie, journal de la typographie](https://gallica.bnf.fr/ark:/12148/bpt6k3295697g/f11.item.zoom#) ). Il est associé à Geffard entre 75 et 78 (Geffard et Dugnat (orthographié Dunias) apparaît dans l'_Annuaire du commerce_ en 1875). J'inclinerai donc pour une période d'exercice entre 1868-1878.
 
 Quoi qu'il en soit, il présente des polices que pour ma part je n'avais encore jamais vu, ni en bois ni en plomb. De même jamais je n'avais rencontré ce nom, et je n'ai jamais vu de marque "Dugnat".
 
