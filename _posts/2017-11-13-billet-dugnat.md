@@ -49,7 +49,7 @@ Quoi qu'il en soit, il présente des polices que pour ma part je n'avais encore 
 
 # Le specimen de Dugnat
 
-Il est édité par P. Godet à Saumur. Paul Godet, imprimeur actif entre 1839 et 1858, la raison sociale reste cependant la même avec son fils, jusqu'en 1916\. Difficile donc de réduire la fenêtre de datation du spécimen avec cet élément, on peut seulement inféré qu'il ne peut être postérieur à 1875, puisque la raison sociale devient Dugnat et Geffard à cette date.
+Il est édité par P. Godet à Saumur. Paul Godet, imprimeur actif entre 1839 et 1858, la raison sociale reste cependant la même avec son fils, jusqu'en 1916\. Difficile donc de réduire la fenêtre de datation du spécimen avec cet élément, on peut seulement inférer qu'il ne peut être postérieur à 1875, puisque la raison sociale devient Dugnat et Geffard à cette date.
 
 Sa page de titre donne un certain nombre d'informations :
 
@@ -61,6 +61,6 @@ Seule indication "technique", cet avis en page des compositions des polices :
 
 > _M. les imprimeurs peuvent se persuader que toutes les lettres sortant de notre atelier seront bien confectionnées et en bon bois, et qu'elles auront baignées dans l'huile pendant 24 heures._
 
-Nous ne saurons pas quel bois, quand au bain d'huile (en général de l'huile de lin), il permet de saturer le bois afin de l'empêcher de "boire" l'encre, et aussi de le rendre plus résistant à l'humidité et aux insectes.
+Nous ne saurons pas quel bois, quand au bain d'huile (en général de l'huile de lin, parfois chauffée), il permet de saturer le bois afin de l'empêcher de "boire" l'encre, et aussi de le rendre plus résistant à l'humidité et aux insectes.
 
 À suivre ...
