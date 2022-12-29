@@ -34,7 +34,7 @@ Il faut un reporter américain pour enfin trouver mention de ce catalogue (que j
   <figcaption>Catalogue Audebaud (Universiteit van Amsterdam).</figcaption>
 </figure>
 
-Quelle est la part de création autour de ces modèles en plomb (sans oublier l'influence de la lithographie et de la peinture d'enseigne), comment sont transposés les questions de lisibilité, de distance de lecture, etc, dans le dessin et l'adaptation des polices existantes pour la transposition en grand corps, quel est la part de la contrainte des machines dans cette esthétique...
+Quelle est la part de création autour de ces modèles en plomb (sans oublier l'influence de la lithographie et de la peinture d'enseigne), comment sont transposées les questions de lisibilité, de distance de lecture, etc, dans le dessin et l'adaptation des polices existantes pour la transposition en grand corps, quel est la part de la contrainte des machines dans cette esthétique...
 
 # Un spécimen rare et de grande qualité
 
