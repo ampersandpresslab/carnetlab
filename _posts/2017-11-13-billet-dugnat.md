@@ -23,29 +23,29 @@ toc_label: Sommaire
 toc_icon: list
 ---
 
-Article de 2017 mis à jour en 2022.
+Article de 2017 mis à jour en 2023.
 
-La bibliothèque de l'[École Estienne](http://www.ecole-estienne.paris/) possède un [spécimen](http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002107187?highlight=dugnat) signé **Dugnat et Cie**, installé à Bressuire. Il est non daté, mais sur la notice du catalogue, supposé être paru vers 1850 mais nous allons voir que sa parution ne peut se situer qu'entre 1868 et 1875\. Je l'ai repéré sur le catalogue de la bibliothèque en 2017, et il m'a entre-temps été généreusement signalé par un étudiant de l'école (merci) qui m'a donné la possibilité de le voir.
+La bibliothèque de l'[École Estienne](http://www.ecole-estienne.paris/) possède un [spécimen](http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0002107187?highlight=dugnat) de la fabrique **Dugnat et Cie**, installés à Bressuire. Il est non daté, et la notice du catalogue, supposé être paru vers 1850 est fautive, nous allons voir que sa parution ne peut se situer qu'entre 1868 et 1875\. Je l'ai repéré sur le catalogue de la bibliothèque en 2017, et il m'a entre-temps été généreusement signalé par un étudiant de l'école (merci) qui m'a donné la possibilité de le voir.
 
 Ce qui fait à mes yeux le grand intérêt de ce spécimen, c'est bien sûr que ledit **Dugnat** est établi à Bressuire, que je ne le connaissais pas avant 2017 et que c'est donc un autre de ces pionniers de cette industrie qui a fleuri dans cette ville pendant plus d'un siècle.
 
 # Questions et suppositions
 
-Le sous-titre du spécimen annonce "Atelier de gravure sur bois" sans plus de précision puis vient la spécialité. On peut supposer que cette spécialité, "les caractères pour affiches" n'est pas le premier "métier" de **Dugnat** qui a cette date a au moins 31 ans.
+Le sous-titre du spécimen annonce "Atelier de gravure sur bois" sans plus de précisions puis vient la spécialité. On peut supposer que cette spécialité, "les caractères pour affiches" n'est pas le premier "métier" de Guillaume Dugnat (1838-1902), en 1866 il est qualifié de menuisier dans le recensement, puis de graveur dans les années 1880.
 
-On serait donc en présence (supposition non fondée...) dans cette ville à des "reconversions" opportunes dans une industrie naissante en France.<br>
+Nous sommes donc en présence dans cette ville à des "reconversions" opportunes dans une industrie naissante en France, graveurs et menuisiers y voyant un débouché lucratif.<br>
 Il est aussi intéressant de noter que dans cette région on exploitait le bois de cormier (particulièrement présent dans le bocage Bressuirais), d'ailleurs une publicité de **Ploquin** indique qu'il exploite lui-même un tel bois.<br>
-La concentration à Bressuire de fabricants s'explique donc peut-être en partie par ces conjonctions : un pionnier (Delamarre), la réussite, la matière première, les imitateurs et la concurrence (**Ploquin** concurrent de **Audebaud**).
+La concentration à Bressuire de fabricants s'explique donc peut-être en partie par ces conjonctions : un pionnier (Delamarre), la réussite, la matière première, les imitateurs et la concurrence (par exemple on sait que **Ploquin** avait pour concurrent direct **Audebaud**).
 
 # Qui ?
 
-Guillaume Dugnat (1837-1902) est né à Brousse dans le Puy-de-Dôme de Antoine Dugnat et Maie Pialat. Il est marié à Hortense Gobin et à une fille.Le recensement de 1881 le situe à Bressuire sous la profession de graveur, il habite au 3 rue de la Cave, il aura peut être été voisin de Constant Audebaud (1836-18..) qui habitait au 9 en 1886\. Il est également possible qu'il ait été graveur pour ce dernier dans les années 1880 après avoir cessé son activité à son nom en association avec Geffard, voire que Audebaud, qui reprend la fabrique Moreau en 1876, ait également intégré le fonds Dugnat.
+Guillaume Dugnat (1837-1902) est né à Brousse dans le Puy-de-Dôme de Antoine Dugnat et Marie Pialat. Il est marié à Hortense Gobin et à une fille, Marie Louise. Au recensement de 1881, il habite au 3 Grande Rue. Encore jeune dans les années 1880 (et quelifié de graveur encore en 1891), il est possible qu'il ait travaillé pour Audebaud ou Ploquin après avoir cessé son activité à son nom et en association avec Geffard. On doit également supposer que Audebaud, qui reprend la fabrique Moreau en 1877, ou Ploquin, aient l'un ou l'autre intégrés le fonds Dugnat.
 
 # Quand ?
 
-Au vu de son contenu, on peut être effectivement tenté de le dater des années 1850, mais pour le moment Dugnat n'apparaît dans les sources qu'en 1868, cité comme fournisseur en caractères bois de la Fonderie Boildieu ([L'imprimerie, journal de la typographie](https://gallica.bnf.fr/ark:/12148/bpt6k3295697g/f11.item.zoom#) ). Il est associé à Geffard entre 75 et 78 (Geffard et Dugnat (orthographié Dunias) apparaît dans l'_Annuaire du commerce_ en 1875). J'inclinerai donc pour une période d'exercice entre 1868-1878.
+Au vu de son contenu, on peut être effectivement tenté de le dater des années 1850, mais Dugnat n'apparaît dans les sources qu'en 1868, cité comme fournisseur en caractères bois de la Fonderie Boildieu ([L'imprimerie, journal de la typographie](https://gallica.bnf.fr/ark:/12148/bpt6k3295697g/f11.item.zoom#) ). Il est associé à Geffard entre 75 et 78 (Geffard et Dugnat (orthographié Dunias) apparaît dans l'_Annuaire du commerce_ en 1875). J'inclinerai donc pour une période d'exercice entre 1868 à minima et 1878.
 
-Quoi qu'il en soit, il présente des polices que pour ma part je n'avais encore jamais vu, ni en bois ni en plomb. De même jamais je n'avais rencontré ce nom, et je n'ai jamais vu de marque "Dugnat".
+Pour le moment aucune marque "Dugnat" n'a été repéré sur les caractères anciens en circulation.
 
 # Le specimen de Dugnat
 
