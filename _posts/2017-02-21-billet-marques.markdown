@@ -58,7 +58,7 @@ Voici les estampilles relevées sur des caractères de ma collection (polices co
   <figcaption>Marque de Chabauty.</figcaption>
 </figure>
 
-Manufacture Chabauty, à Bressuire. Probablement la seconde fabrique à Bressuire, attesté dès 1848\. Armand Chabauty fonde cette maison en s'associant au libraire-imprimeur Louis Moreau. En 1855, avant de passer à Ploquin, son gendre, la maison prendra le nom Chabauty-Ploquin, comme l'atteste des publicités dans les années 1881.
+Manufacture Chabauty, à Bressuire. Probablement la seconde fabrique à Bressuire, attesté dès 1848\. Armand Chabauty fonde cette maison puis s'associe au libraire-imprimeur Louis Moreau. En 1855, avant de passer à Ploquin, son gendre, la maison prendra le nom Chabauty-Ploquin, comme l'atteste des publicités dans les années 1881.
 
 ### Marque Ploquin, Bressuire
 
@@ -80,7 +80,7 @@ Manufacture Ploquin, à Bressuire. Antérieure à E. Ploquin. Il peut s'agir de 
   <figcaption>Marque de E. Ploquin.</figcaption>
 </figure>
 
-Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le moment impossible d'identifier le prénom derrière ce "E.". Un Baptiste Ploquin était recensé comme fabricant de caractères en bois en 1881.
+Manufacture E. Ploquin, à Bressuire. Gendre de Armand Chabauty. Il doit s'agir de Etienne Baptiste Ploquin comme fabricant de caractères en bois en 1881.
 
 ### Marque de Audebaud, Bressuire
 
@@ -91,7 +91,7 @@ Manufacture E. Ploquin, à Bressuire. Gendre de Chabauty. Il m'est pour le momen
   <figcaption>Marque de Constant Audebaud.</figcaption>
 </figure>
 
-Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent de E. Ploquin.
+Manufacture Constant Audebaud, à Bressuire. Constant Audebaud à produit au moins un catalogue remarqué à l'Exposition Universelle de 1888\. Concurrent direct de E. Ploquin.
 
 ### Marque de Henri Dureau, Bressuire
 
@@ -126,7 +126,8 @@ Manufacture L. Sainson, à Argenton dans l'Indre, actif dès 1860 (et probableme
   <figcaption>Marque T. Bore.</figcaption>
 </figure>
 
-Manufacture T. Boré. Lire "à Napoléon-Vendée", nom de la Roche-sur-Yon entre 1852 et 1870\. Il est actif dès 1864 comme fabricant de presses mécaniques et fournisseur de matériel d'imprimerie. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (_Gazette des Beaux-Arts_). Un spécimen de deux feuillets existe à Forney au nom de T.F. Boré, graveur.
+Manufacture T. Boré. Connu par deux marques, l'une indiquant "Napoléon-Vendée", l'autre "La Roche-sur-Yon". Implique une activité à cheval sur 1870 (Napoléon Vendée est le nom second Empire de La Roche-sur-Yon, abandonné en 1870). Attesté au Bottin entre 1871 (avant ?) et 1875. Il sera repris par Naud qu'on peut supposer avoir été son employé.
+T.F. Boré est attesté comme mécanicien par le bottin en 1864 "Presses mécaniques (fab. de) : Boré (T.F.), fournit. et access pour imprimeurs, Vaugirard, 151." Et par un article du Gutenberg de 1861. Un Boré est cité comme graveur sur bois dans cette ville en 1870 (_Gazette des Beaux-Arts_). Un spécimen de deux feuillets existe à Forney au nom de T.F. Boré, graveur.
 
 ## Les manufactures en Suisse
 
