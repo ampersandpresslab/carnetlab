@@ -61,6 +61,6 @@ Seule indication "technique", cet avis en page des compositions des polices :
 
 > _M. les imprimeurs peuvent se persuader que toutes les lettres sortant de notre atelier seront bien confectionnées et en bon bois, et qu'elles auront baignées dans l'huile pendant 24 heures._
 
-Nous ne saurons pas quel bois, quand au bain d'huile (en général de l'huile de lin, parfois chauffée), il permet de saturer le bois afin de l'empêcher de "boire" l'encre, et aussi de le rendre plus résistant à l'humidité et aux insectes.
+Nous ne saurons pas quel bois, mais il s'agit vraisemeblablement du cormier présent dans la région, quant au bain d'huile (en général de l'huile de lin, parfois chauffée), il permet de saturer le bois afin de l'empêcher de "boire" l'encre, et aussi de le rendre plus résistant à l'humidité et aux insectes.
 
 À suivre ...
