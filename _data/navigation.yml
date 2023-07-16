@@ -4,8 +4,6 @@ main:
 #   url: /all/
 - title: "Tous les billets"
   url: /carnet/
-
-
 - title: "À  propos"
   url: /apropos/
 side:
