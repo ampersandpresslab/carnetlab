@@ -4,8 +4,7 @@ main:
 #   url: /all/
 - title: "Tous les billets"
   url: /carnet/
-- title: "Site de l'atelier"
-  url: /atelier/
+
 
 - title: "À  propos"
   url: /apropos/
