@@ -1,26 +1,10 @@
----
-layout: single
-author_profile: true
-header:
-  overlay_image: /assets/images/Page505_0002etroit.jpg
-  overlay_filter: 0.5
-  caption: Caractères n°505 par Page & Co
-excerpt: >-
-  Ce carnet rassemble mes recherches en cours sur l'histoire
-  de l'imprimerie, en particulier sur les manufactures françaises de
-  caractères bois et des réflexions autour des activités de l'[atelier](https://ampersandpresslab.fr/).
-sidebar:
-  nav: "side"
----
-<h2  class="page__subtitle">Derniers billets</h2>
+--- layout: single author_profile: true header: overlay_image: /assets/images/Page505_0002etroit.jpg overlay_filter: 0.5 caption: Caractères n°505 par Page & Co excerpt: >- Ce carnet rassemble mes recherches en cours sur l'histoire de l'imprimerie, en
+particulier sur les manufactures françaises de caractères bois. sidebar: nav: "side" ---
+<h2 class="page__subtitle">Derniers billets</h2>
 
-<div class="grid__wrapper"><!-- affichage en grille -->
-{% assign anteChrono = site.posts | sort | reverse | group_by_exp:"post", "post.date | date: '%F'"  %}
-{% for year in anteChrono limit: 2  %}
-  {% for post in year.items %}
-    {% include archive-single.html  %}
-  {% endfor %}
-{% endfor %}
+<div class="grid__wrapper">
+    <!-- affichage en grille -->
+    {% assign anteChrono = site.posts | sort | reverse | group_by_exp:"post", "post.date | date: '%F'" %} {% for year in anteChrono limit: 2 %} {% for post in year.items %} {% include archive-single.html %} {% endfor %} {% endfor %}
 </div>
-<h2  class="page__subtitle"><a href="{{site.baseurl}}/carnet">Voir tous les billets</a>
+<h2 class="page__subtitle"><a href="{{site.baseurl}}/carnet">Voir tous les billets</a>
 </h2>
