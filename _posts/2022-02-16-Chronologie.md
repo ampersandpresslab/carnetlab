@@ -48,6 +48,6 @@ Je m'intéresse aux fabricants français, et plus largement j'élargis ma recher
 
 [^1]: Une alternative plus digeste aurait été de regrouper sous un seul nom, une fabrique ayant passé de père en fils comme par exemple celle de Dureau.
 
-[^2]: Par exemple je n'ai pas de preuve d'une réelle activité de fabrication chez Dutreix, par contre la comparaison des spécimens ([ici](https://www.flickr.com/photos/ampersandpresslab/49314969358/in/album-72157712472905831/) et [là](https://www.flickr.com/photos/ampersandpresslab/44342358230/in/album-72157704265439785/)) prouve qu'ils distribuaient sous leur nom des caractères fabriqués par Jacoby. Montanari s'il est parfois cité dans la rubrique "Caractères en bois" n'est pour sa part qu'un "agent", revendeur, en particulier pour Martin entre 87 et 89.
+[^2]: Par exemple je n'ai pas de preuves d'une réelle activité de fabrication chez Dutreix, par contre la comparaison des spécimens ([ici](https://www.flickr.com/photos/ampersandpresslab/49314969358/in/album-72157712472905831/) et [là](https://www.flickr.com/photos/ampersandpresslab/44342358230/in/album-72157704265439785/)) prouve qu'ils distribuaient sous leur nom des caractères fabriqués par Jacoby. Montanari s'il est parfois cité dans la rubrique "Caractères en bois" n'est pour sa part qu'un "agent", revendeur, en particulier pour Martin entre 87 et 89.
 
 [^3]: Martin vient de Lyon et s'installe à Ardon pour des raisons économiques, Charles Bonnet est un communard réfugié à Genève.
