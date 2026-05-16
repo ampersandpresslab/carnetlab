@@ -69,7 +69,7 @@ Cette association intègrera plus tard la maison **Ed. Marcou** et sera absorbé
 La fonderie apparaît sous le nom de Georges Renault entre 1879 (successeur Renault Robcis) et 1901 (attesté en 1909 la raison sociale change pour G. Renault Ed. Marcou succr, publicité dans le Bulletin officiel de l'Union Syndicale des Maîtres Imprimeurs).
 
 Cet exemplaire n'est pas à proprement parler un specimen officiel de la fonderie. Il a probablement été constitué par un imprimeur qui a relié les fascicules envoyés par la fonderie en les regroupant par catégories (la reliure est très sommaire, sans indication de titre). La fonderie prévoyait cet usage en fournissant des pages intercalaires et des pages de titres. Bien que chaque feuillet soit paginé, le tout est relié dans le désordre, il est difficile de dire si cette pagination du fondeur avait pour but de rassembler dans l'ordre les fascicules, certainement pas, il s'agirait plutôt de l'ordre dans lequel les specimens étaient produits.<br>
-Dans les années 1900, ces fascicules étaient bi-mensuels et comportaient une vingtaine de pages (il y en a des exemplaires à la bibliothèque Forney ).
+Dans les années 1900, ces fascicules étaient bi-mensuels et comportaient une vingtaine de pages (il y en a des exemplaires à la bibliothèque Forney).
 
 ## Les catagories du specimen
 
